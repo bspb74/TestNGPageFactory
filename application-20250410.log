@@ -1,0 +1,16 @@
+2025-04-10 12:34:41.870 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\HerokuApp\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 12:34:41.886 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\HerokuApp\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 12:34:41.887 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\HerokuApp\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 12:34:42.299 [main] WARN  FreeCRM_TestCases - C:\Users\Carey\IdeaProjects\HerokuApp
+2025-04-10 12:34:42.300 [main] INFO  FreeCRM_TestCases - File: C:\Users\Carey\IdeaProjects\HerokuApp\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-10 12:34:48.582 [main] INFO  TestBase - URL: http://the-internet.herokuapp.com
+2025-04-10 12:34:50.027 [main] INFO  FreeCRM_TestCases - name: Arturo Gotti
+2025-04-10 12:34:50.035 [main] INFO  FreeCRM_TestCases - name: Kate Blankenship
+2025-04-10 12:34:50.038 [main] INFO  FreeCRM_TestCases - name: Jimmy Bufet
+2025-04-10 12:34:50.044 [main] INFO  FreeCRM_TestCases - name: Steven Thome
+2025-04-10 12:34:50.060 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\HerokuApp\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 12:34:50.061 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\HerokuApp\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 12:34:50.061 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\HerokuApp\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 12:34:50.140 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\HerokuApp\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 12:34:50.141 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\HerokuApp\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 12:34:50.142 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\HerokuApp\src\main\java\com\testng\qa\config\config.properties

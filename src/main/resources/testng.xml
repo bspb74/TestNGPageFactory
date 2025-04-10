@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Carey/IdeaProjects/HerokuApp/src/test/java/com/testng/qa/testcases/FreeCRM_TestCases.java">
+        <classes>
+            <class name="com.testng.qa.runners.FreeCRM_TestCases">
+<!--                <methods>-->
+<!--                    <include name="initialTest"/>-->
+<!--                    <include name="secondTest"/>-->
+<!--                </methods>-->
+            </class>
+        </classes>
+    </test>
+</suite>
