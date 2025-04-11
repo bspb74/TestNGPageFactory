@@ -19,14 +19,19 @@ public class TestBase {
     public static WebDriver driver;
     public static Properties prop;
 
+    private static boolean constructorExecuted = false;
+
     public TestBase(){
-        try {
-            prop = new Properties();
-            FileInputStream fis = new FileInputStream(getPropertyFileString());
-            prop.load(fis);
-            log.warn("Loading Properites: " + getPropertyFileString());
-        } catch (IOException e) {
-            log.error("Properites not loaded: " + e.getMessage());
+        if (!constructorExecuted) {
+            try {
+                prop = new Properties();
+                FileInputStream fis = new FileInputStream(getPropertyFileString());
+                prop.load(fis);
+                log.warn("Loading Properites: " + getPropertyFileString());
+                constructorExecuted = true;
+            } catch (IOException e) {
+                log.error("Properites not loaded: " + e.getMessage());
+            }
         }
     }
 

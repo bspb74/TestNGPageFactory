@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Carey/IdeaProjects/TestNGPageFactory/src/test/java/com/testng/qa/runners/SauceDemo_TestCases.java"><classes><class name="com.testng.qa.runners.SauceDemo_TestCases"><methods><include name="sauceLabsLogin"/><include name="secondTest"/></methods></class></classes></test></suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Carey/IdeaProjects/TestNGPageFactory/src/test/java/com/testng/qa/runners/SauceDemo_TestCases.java">
+        <classes>
+            <class name="com.testng.qa.runners.SauceDemo_TestCases">
+<!--                <methods>-->
+<!--                    <include name="sauceLabsLogin"/>-->
+<!--                    <include name="secondTest"/>-->
+<!--                </methods>-->
+            </class>
+        </classes>
+    </test>
+</suite>

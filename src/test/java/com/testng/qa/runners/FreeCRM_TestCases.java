@@ -254,9 +254,6 @@ public class FreeCRM_TestCases extends TestBase implements TestCaseInterface {
         haNav.testWYSIWYGEditorPage();
     }
 
-
-
-
     @DataProvider(name = "testData")
     public Iterator<Object[]> getTestData() {
         return ExcelReader.readExcelData(file, ssName);
@@ -276,7 +273,7 @@ public class FreeCRM_TestCases extends TestBase implements TestCaseInterface {
         sb.append(fName);
         file = sb.toString();
         log.info("File: " + sb);
-        initialization(prop.getProperty("url"));
+        initialization("url");
     }
 
     @AfterClass

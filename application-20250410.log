@@ -14,3 +14,177 @@
 2025-04-10 12:34:50.140 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\HerokuApp\src\main\java\com\testng\qa\config\config.properties
 2025-04-10 12:34:50.141 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\HerokuApp\src\main\java\com\testng\qa\config\config.properties
 2025-04-10 12:34:50.142 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\HerokuApp\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:47:37.148 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:47:37.163 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:47:37.164 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:47:37.586 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-10 15:47:37.587 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-10 15:49:58.693 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:49:58.711 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:49:58.713 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:49:59.011 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-10 15:49:59.012 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-10 15:50:45.746 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:50:45.763 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:50:45.764 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:50:46.050 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-10 15:50:46.051 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-10 15:51:22.733 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:51:22.750 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:51:22.751 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:51:23.052 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-10 15:51:23.053 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-10 15:52:39.558 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:52:39.578 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:52:39.581 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:52:39.898 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-10 15:52:39.899 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-10 15:54:19.888 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:54:19.907 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:54:19.909 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:54:20.611 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-10 15:54:20.612 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-10 15:54:28.977 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-10 15:54:29.033 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:54:29.035 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:54:29.037 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:54:29.044 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:54:29.045 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:54:29.045 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:54:29.733 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:54:29.734 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:54:29.735 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:59:20.725 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:59:20.744 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:59:20.745 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:59:21.062 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-10 15:59:21.064 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-10 15:59:27.358 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-10 15:59:27.404 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:59:27.405 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:59:27.405 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:59:27.407 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:59:27.407 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:59:27.408 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:59:27.490 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:59:27.492 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:59:27.499 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:59:28.049 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:59:28.050 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 15:59:28.050 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:10.676 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:10.694 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:10.695 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:11.021 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-10 16:04:11.022 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-10 16:04:17.652 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-10 16:04:17.715 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:17.716 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:17.717 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:17.718 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:17.719 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:17.719 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:17.778 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:17.783 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:17.783 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:18.354 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:18.356 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:18.356 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:49.931 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:49.946 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:49.949 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:50.275 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-10 16:04:50.276 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-10 16:04:56.487 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-10 16:04:56.550 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:56.551 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:56.552 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:56.553 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:56.553 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:56.554 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:56.620 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:56.621 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:56.621 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:57.247 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:57.248 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:04:57.248 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:07:15.091 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:07:15.109 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:07:15.110 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:07:15.424 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-10 16:07:15.426 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-10 16:07:21.611 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-10 16:07:21.677 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:07:21.678 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:07:21.678 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:07:21.680 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:07:21.680 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:07:21.681 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:07:21.728 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:07:21.729 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:07:21.729 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:07:22.273 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:07:22.273 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:07:22.274 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:15:55.835 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:15:55.853 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:15:55.854 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:15:56.189 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-10 16:15:56.190 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-10 16:16:02.650 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-10 16:16:02.715 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:02.716 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:02.717 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:02.809 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:02.810 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:02.810 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:02.812 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:02.813 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:02.813 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:02.816 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:02.817 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:02.817 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:02.818 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:02.821 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:02.823 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:03.388 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:03.391 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:16:03.391 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:18.249 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:18.266 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:18.268 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:18.588 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-10 16:18:18.589 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-10 16:18:24.657 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-10 16:18:24.712 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:24.713 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:24.713 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:24.792 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:24.793 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:24.793 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:24.796 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:24.796 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:24.797 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:24.799 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:24.799 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:24.800 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:24.803 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:24.804 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:24.804 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:25.339 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:25.339 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:18:25.340 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:25:03.514 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:25:03.538 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:25:03.539 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:25:03.929 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-10 16:25:03.930 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-10 16:25:10.209 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-10 16:27:37.472 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-10 16:27:37.491 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-10 16:28:37.186 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:28:37.204 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:28:37.205 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-10 16:28:37.520 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-10 16:28:37.521 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-10 16:28:43.559 [main] INFO  TestBase - URL: http://saucedemo.com

@@ -1,0 +1,1051 @@
+2025-04-11 08:43:09.793 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 08:43:09.808 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 08:43:09.809 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 08:43:10.135 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 08:43:10.137 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 08:43:18.740 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 08:55:45.874 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 08:55:45.892 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 08:55:45.893 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 08:55:46.275 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 08:55:46.277 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 08:55:53.007 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 08:56:02.847 [main] INFO  SauceLabsTestCases - Test.allTheThings() T-Shirt (Red)
+2025-04-11 08:56:03.995 [main] INFO  SauceLabsTestCases - Sauce Labs Fleece Jacket
+2025-04-11 08:56:05.138 [main] INFO  SauceLabsTestCases - Sauce Labs Onesie
+2025-04-11 08:56:06.464 [main] INFO  SauceLabsTestCases - Sauce Labs Backpack
+2025-04-11 09:01:52.533 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:01:52.551 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:01:52.552 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:01:52.918 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 09:01:52.919 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 09:01:59.410 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 09:02:09.151 [main] INFO  SauceLabsTestCases - Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:02:10.327 [main] INFO  SauceLabsTestCases - Sauce Labs Fleece Jacket
+2025-04-11 09:02:11.537 [main] INFO  SauceLabsTestCases - Sauce Labs Onesie
+2025-04-11 09:02:12.690 [main] INFO  SauceLabsTestCases - Sauce Labs Backpack
+2025-04-11 09:02:13.865 [main] INFO  SauceLabsTestCases - Sauce Labs Backpack
+2025-04-11 09:02:15.037 [main] INFO  SauceLabsTestCases - Sauce Labs Onesie
+2025-04-11 09:02:16.214 [main] INFO  SauceLabsTestCases - Sauce Labs Fleece Jacket
+2025-04-11 09:02:17.413 [main] INFO  SauceLabsTestCases - Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:08:18.600 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:08:18.618 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:08:18.619 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:08:18.978 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 09:08:18.980 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 09:08:25.677 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 09:08:35.473 [main] INFO  SauceLabsTestCases - FIRST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:08:36.658 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Fleece Jacket
+2025-04-11 09:08:37.822 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Onesie
+2025-04-11 09:08:39.220 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Backpack
+2025-04-11 09:08:40.414 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Backpack
+2025-04-11 09:08:41.596 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Onesie
+2025-04-11 09:08:42.777 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Fleece Jacket
+2025-04-11 09:08:43.977 [main] INFO  SauceLabsTestCases - LAST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:15:02.835 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:15:02.854 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:15:02.855 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:15:03.251 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 09:15:03.252 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 09:15:09.638 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 09:15:13.146 [main] INFO  SauceLabsTestCases - FIRST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:15:14.309 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Fleece Jacket
+2025-04-11 09:15:15.479 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Onesie
+2025-04-11 09:15:16.673 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Backpack
+2025-04-11 09:15:17.847 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Backpack
+2025-04-11 09:15:19.154 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Onesie
+2025-04-11 09:15:20.437 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Fleece Jacket
+2025-04-11 09:15:21.952 [main] INFO  SauceLabsTestCases - LAST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:15:49.645 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:15:49.663 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:15:49.664 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:15:50.058 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 09:15:50.059 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 09:15:56.394 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 09:16:02.054 [main] INFO  SauceLabsTestCases - FIRST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:16:03.232 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Fleece Jacket
+2025-04-11 09:16:04.419 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Onesie
+2025-04-11 09:16:05.639 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Backpack
+2025-04-11 09:16:07.200 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Backpack
+2025-04-11 09:16:08.539 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Onesie
+2025-04-11 09:16:09.796 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Fleece Jacket
+2025-04-11 09:16:10.975 [main] INFO  SauceLabsTestCases - LAST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:17:51.486 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:17:51.504 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:17:51.505 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:17:51.876 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 09:17:51.877 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 09:17:58.233 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 09:18:07.998 [main] INFO  SauceLabsTestCases - FIRST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:18:09.182 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Fleece Jacket
+2025-04-11 09:18:10.378 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Onesie
+2025-04-11 09:18:11.555 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Backpack
+2025-04-11 09:18:12.740 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Backpack
+2025-04-11 09:18:14.006 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Onesie
+2025-04-11 09:18:15.248 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Fleece Jacket
+2025-04-11 09:18:16.435 [main] INFO  SauceLabsTestCases - LAST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:36:11.598 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:36:11.617 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:36:11.619 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:36:12.015 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 09:36:12.016 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 09:36:19.281 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 09:36:29.144 [main] INFO  SauceLabsTestCases - FIRST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:36:30.314 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Fleece Jacket
+2025-04-11 09:36:31.515 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Onesie
+2025-04-11 09:36:32.681 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Backpack
+2025-04-11 09:36:33.852 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Backpack
+2025-04-11 09:36:35.075 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Onesie
+2025-04-11 09:36:36.242 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Fleece Jacket
+2025-04-11 09:36:37.436 [main] INFO  SauceLabsTestCases - LAST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:37:40.841 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:37:40.861 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:37:40.861 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:37:41.221 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 09:37:41.222 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 09:37:48.175 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 09:37:58.034 [main] INFO  SauceLabsTestCases - FIRST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:37:59.236 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Fleece Jacket
+2025-04-11 09:38:00.377 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Onesie
+2025-04-11 09:38:01.541 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Backpack
+2025-04-11 09:38:02.717 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Backpack
+2025-04-11 09:38:03.938 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Onesie
+2025-04-11 09:38:05.127 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Fleece Jacket
+2025-04-11 09:38:06.287 [main] INFO  SauceLabsTestCases - LAST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:38:07.339 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:38:07.367 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:38:07.392 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:38:07.415 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:38:07.438 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:38:07.463 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:40:20.941 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:40:20.959 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:40:20.960 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:40:21.330 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 09:40:21.331 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 09:40:27.870 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 09:40:37.771 [main] INFO  SauceLabsTestCases - FIRST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:40:38.949 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Fleece Jacket
+2025-04-11 09:40:40.098 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Onesie
+2025-04-11 09:40:41.248 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Backpack
+2025-04-11 09:40:42.446 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Backpack
+2025-04-11 09:40:43.603 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Onesie
+2025-04-11 09:40:44.787 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Fleece Jacket
+2025-04-11 09:40:45.962 [main] INFO  SauceLabsTestCases - LAST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:40:47.057 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:40:47.081 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:40:47.106 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:40:47.130 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:40:47.164 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:40:47.185 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:45:04.143 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:45:04.162 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:45:04.164 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:45:41.577 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:45:41.595 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:45:41.596 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:47:22.877 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:47:22.898 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:47:22.901 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:48:16.963 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:48:16.981 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:48:16.982 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:48:17.427 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 09:48:17.428 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 09:48:24.947 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 09:48:34.877 [main] INFO  SauceLabsTestCases - FIRST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:48:36.151 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Fleece Jacket
+2025-04-11 09:48:37.337 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Onesie
+2025-04-11 09:48:38.560 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Backpack
+2025-04-11 09:48:39.785 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Backpack
+2025-04-11 09:48:40.967 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Onesie
+2025-04-11 09:48:42.168 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Fleece Jacket
+2025-04-11 09:48:43.339 [main] INFO  SauceLabsTestCases - LAST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:48:44.404 [main] WARN  ProductsPage - Item count: 6
+2025-04-11 09:48:44.451 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:48:44.480 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:48:44.502 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:48:44.525 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:48:44.548 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:48:44.570 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:49:23.843 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:49:23.863 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:49:23.865 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:49:24.229 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 09:49:24.231 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 09:49:30.564 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 09:49:40.456 [main] INFO  SauceLabsTestCases - FIRST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:49:41.651 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Fleece Jacket
+2025-04-11 09:49:42.850 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Onesie
+2025-04-11 09:49:44.005 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Backpack
+2025-04-11 09:49:45.189 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Backpack
+2025-04-11 09:49:46.395 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Onesie
+2025-04-11 09:49:47.622 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Fleece Jacket
+2025-04-11 09:49:48.813 [main] INFO  SauceLabsTestCases - LAST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:49:49.872 [main] WARN  ProductsPage - Item count: 6
+2025-04-11 09:52:24.883 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:52:24.917 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:52:24.918 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:52:25.492 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 09:52:25.493 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 09:52:32.459 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 09:52:38.227 [main] WARN  ProductsPage - Item Name: ===> Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:52:38.239 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Onesie
+2025-04-11 09:52:38.253 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Fleece Jacket
+2025-04-11 09:52:38.267 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Bolt T-Shirt
+2025-04-11 09:52:38.280 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Bike Light
+2025-04-11 09:52:38.292 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Backpack
+2025-04-11 09:52:38.315 [main] INFO  SauceLabsTestCases - FIRST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:52:39.484 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Fleece Jacket
+2025-04-11 09:52:39.498 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Backpack
+2025-04-11 09:52:39.512 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Bolt T-Shirt
+2025-04-11 09:52:39.526 [main] WARN  ProductsPage - Item Name: ===> Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:52:39.539 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Bike Light
+2025-04-11 09:52:39.552 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Onesie
+2025-04-11 09:52:39.579 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Fleece Jacket
+2025-04-11 09:52:40.773 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Onesie
+2025-04-11 09:52:40.794 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Bike Light
+2025-04-11 09:52:40.813 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Bolt T-Shirt
+2025-04-11 09:52:40.834 [main] WARN  ProductsPage - Item Name: ===> Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:52:40.853 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Backpack
+2025-04-11 09:52:40.871 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Fleece Jacket
+2025-04-11 09:52:40.912 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Onesie
+2025-04-11 09:52:42.160 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Backpack
+2025-04-11 09:52:42.179 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Bike Light
+2025-04-11 09:52:42.197 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Bolt T-Shirt
+2025-04-11 09:52:42.211 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Fleece Jacket
+2025-04-11 09:52:42.225 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Onesie
+2025-04-11 09:52:42.260 [main] WARN  ProductsPage - Item Name: ===> Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:52:42.291 [main] INFO  SauceLabsTestCases - FIRST => Sauce Labs Backpack
+2025-04-11 09:52:43.495 [main] WARN  ProductsPage - Item Name: ===> Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:52:43.509 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Onesie
+2025-04-11 09:52:43.524 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Fleece Jacket
+2025-04-11 09:52:43.539 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Bolt T-Shirt
+2025-04-11 09:52:43.554 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Bike Light
+2025-04-11 09:52:43.583 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Backpack
+2025-04-11 09:52:43.660 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Backpack
+2025-04-11 09:52:44.808 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Fleece Jacket
+2025-04-11 09:52:44.821 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Backpack
+2025-04-11 09:52:44.835 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Bolt T-Shirt
+2025-04-11 09:52:44.848 [main] WARN  ProductsPage - Item Name: ===> Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:52:44.862 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Bike Light
+2025-04-11 09:52:44.877 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Onesie
+2025-04-11 09:52:44.912 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Onesie
+2025-04-11 09:52:46.118 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Onesie
+2025-04-11 09:52:46.134 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Bike Light
+2025-04-11 09:52:46.149 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Bolt T-Shirt
+2025-04-11 09:52:46.168 [main] WARN  ProductsPage - Item Name: ===> Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:52:46.181 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Backpack
+2025-04-11 09:52:46.195 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Fleece Jacket
+2025-04-11 09:52:46.255 [main] INFO  SauceLabsTestCases - LAST => Sauce Labs Fleece Jacket
+2025-04-11 09:52:47.411 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Backpack
+2025-04-11 09:52:47.426 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Bike Light
+2025-04-11 09:52:47.438 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Bolt T-Shirt
+2025-04-11 09:52:47.451 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Fleece Jacket
+2025-04-11 09:52:47.464 [main] WARN  ProductsPage - Item Name: ===> Sauce Labs Onesie
+2025-04-11 09:52:47.476 [main] WARN  ProductsPage - Item Name: ===> Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:52:47.514 [main] INFO  SauceLabsTestCases - LAST => Test.allTheThings() T-Shirt (Red)
+2025-04-11 09:52:48.564 [main] WARN  ProductsPage - Item count: 6
+2025-04-11 09:52:48.612 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:52:48.636 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:52:48.657 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:52:48.679 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:52:48.705 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:52:48.726 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:16.601 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:55:16.621 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:55:16.623 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:55:16.979 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 09:55:16.980 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 09:55:23.302 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 09:55:24.213 [main] WARN  ProductsPage - Item count: 42
+2025-04-11 09:55:24.331 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.360 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.390 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.416 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.446 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.474 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.502 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.532 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.557 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.586 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.615 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.641 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.671 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.698 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.723 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.749 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.773 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.800 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.826 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.851 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.881 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.917 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.951 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:24.976 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.005 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.030 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.055 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.081 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.112 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.151 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.179 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.205 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.234 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.263 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.287 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.312 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.347 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.380 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.406 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.428 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.452 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:25.477 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:55:57.006 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:55:57.024 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:55:57.025 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:55:57.474 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 09:55:57.475 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 09:56:03.608 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 09:56:14.434 [main] WARN  ProductsPage - Item count: 0
+2025-04-11 09:56:55.135 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:56:55.154 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:56:55.155 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:56:55.518 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 09:56:55.519 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 09:57:01.990 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 09:57:02.828 [main] WARN  ProductsPage - Item count: 30
+2025-04-11 09:57:02.930 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:02.959 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:02.988 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.012 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.047 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.077 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.105 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.130 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.159 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.193 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.222 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.249 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.281 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.311 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.338 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.362 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.387 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.416 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.443 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.468 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.495 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.528 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.562 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.587 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.612 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.637 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.661 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.689 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.719 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:57:03.754 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:58:21.164 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:58:21.186 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:58:21.188 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:58:21.564 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 09:58:21.565 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 09:58:27.924 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 09:58:28.683 [main] WARN  ProductsPage - Item count: 6
+2025-04-11 09:58:28.790 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:58:28.826 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:58:28.854 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:58:28.878 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:58:28.909 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:58:28.937 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:59:32.572 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:59:32.592 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:59:32.593 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 09:59:32.976 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 09:59:32.977 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 09:59:39.404 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 09:59:40.200 [main] WARN  ProductsPage - Item count: 6
+2025-04-11 09:59:40.298 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:59:40.341 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:59:40.367 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:59:40.393 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:59:40.422 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 09:59:40.475 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:01:27.069 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:01:27.086 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:01:27.087 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:01:27.462 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 10:01:27.464 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 10:01:33.787 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 10:01:34.570 [main] WARN  ProductsPage - Item count: 6
+2025-04-11 10:01:34.690 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:01:34.788 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:01:34.847 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:01:34.903 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:01:34.958 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:01:35.020 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:03:50.513 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:03:50.533 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:03:50.536 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:03:51.062 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 10:03:51.064 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 10:03:57.954 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 10:03:58.785 [main] WARN  ProductsPage - Item count: 6
+2025-04-11 10:03:58.887 [main] WARN  ProductsPage - Sauce Labs Backpack
+2025-04-11 10:03:58.946 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:03:59.001 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:03:59.060 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:03:59.112 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:03:59.166 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:03:59.224 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:04:59.998 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:05:00.020 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:05:00.021 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:05:00.391 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 10:05:00.392 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 10:05:06.968 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 10:05:07.750 [main] WARN  ProductsPage - Item count: 6
+2025-04-11 10:05:07.850 [main] WARN  ProductsPage - Sauce Labs Backpack
+2025-04-11 10:05:07.922 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:05:07.982 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:05:08.038 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:05:08.095 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:05:08.151 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:05:08.211 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:09:29.961 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:09:29.979 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:09:29.980 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:09:30.324 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 10:09:30.325 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 10:09:37.665 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 10:09:38.491 [main] WARN  ProductsPage - Item count: 6
+2025-04-11 10:09:38.646 [main] WARN  ProductsPage - Sauce Labs Backpack
+2025-04-11 10:09:38.703 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:09:38.761 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:09:38.815 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:09:38.872 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:09:38.924 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:09:39.031 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:13:23.635 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:13:23.653 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:13:23.654 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:13:24.009 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 10:13:24.010 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 10:13:30.477 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 10:13:31.296 [main] WARN  ProductsPage - Item count: 6
+2025-04-11 10:13:31.366 [main] WARN  ProductsPage - Sauce Labs Backpack
+2025-04-11 10:13:31.412 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:13:31.446 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:13:31.477 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:13:31.504 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:13:31.536 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:13:31.564 [main] INFO  ProductsPage - Item: Sauce Labs Backpack
+2025-04-11 10:14:35.356 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:14:35.374 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:14:35.375 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:14:35.747 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 10:14:35.748 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 10:14:42.134 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 10:14:42.918 [main] WARN  ProductsPage - Item count: 6
+2025-04-11 10:14:42.996 [main] WARN  ProductsPage - Sauce Labs Backpack
+2025-04-11 10:14:43.052 [main] INFO  ProductsPage - Item: 0 => Sauce Labs Backpack
+2025-04-11 10:14:43.080 [main] INFO  ProductsPage - Item: 1 => Sauce Labs Backpack
+2025-04-11 10:14:43.104 [main] INFO  ProductsPage - Item: 2 => Sauce Labs Backpack
+2025-04-11 10:14:43.130 [main] INFO  ProductsPage - Item: 3 => Sauce Labs Backpack
+2025-04-11 10:14:43.164 [main] INFO  ProductsPage - Item: 4 => Sauce Labs Backpack
+2025-04-11 10:14:43.191 [main] INFO  ProductsPage - Item: 5 => Sauce Labs Backpack
+2025-04-11 10:16:57.643 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:16:57.665 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:16:57.667 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:16:58.048 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 10:16:58.050 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 10:17:04.914 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 10:17:05.881 [main] WARN  ProductsPage - Item count: 6
+2025-04-11 10:17:05.974 [main] WARN  ProductsPage - Sauce Labs Backpack
+2025-04-11 10:17:06.016 [main] INFO  ProductsPage - Item: 0 => Sauce Labs Backpack
+2025-04-11 10:17:06.045 [main] INFO  ProductsPage - Item: 1 => Sauce Labs Backpack
+2025-04-11 10:17:06.074 [main] INFO  ProductsPage - Item: 2 => Sauce Labs Backpack
+2025-04-11 10:17:06.102 [main] INFO  ProductsPage - Item: 3 => Sauce Labs Backpack
+2025-04-11 10:17:06.131 [main] INFO  ProductsPage - Item: 4 => Sauce Labs Backpack
+2025-04-11 10:17:06.159 [main] INFO  ProductsPage - Item: 5 => Sauce Labs Backpack
+2025-04-11 10:23:43.988 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:23:44.005 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:23:44.007 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:23:44.370 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 10:23:44.371 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 10:23:50.643 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 10:23:51.727 [main] WARN  ProductsPage - Item: Sauce Labs Onesie => $29.99
+2025-04-11 10:23:51.728 [main] INFO  SauceLabsTestCases - Item from Map: price
+2025-04-11 10:23:51.728 [main] INFO  SauceLabsTestCases - Item from Map: name
+2025-04-11 10:36:17.557 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:36:17.580 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:36:17.581 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 10:36:17.932 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 10:36:17.948 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 10:36:24.502 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 10:36:25.596 [main] WARN  ProductsPage - Item: Sauce Labs Onesie => $7.99
+2025-04-11 10:36:25.597 [main] INFO  SauceLabsTestCases - Item from Map: price
+2025-04-11 10:36:25.597 [main] INFO  SauceLabsTestCases - Item from Map: name
+2025-04-11 12:17:24.998 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:17:25.018 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:17:25.020 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:17:25.425 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 12:17:25.426 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 12:17:34.451 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 12:17:35.770 [main] WARN  ProductsPage - Item: Sauce Labs Onesie => $7.99
+2025-04-11 12:17:35.771 [main] INFO  SauceLabsTestCases - Item from Map: price
+2025-04-11 12:17:35.771 [main] INFO  SauceLabsTestCases - Item from Map: name
+2025-04-11 12:17:36.528 [main] INFO  SauceLabsTestCases - Key: price => $29.99
+2025-04-11 12:17:36.528 [main] INFO  SauceLabsTestCases - Key: listIdx => 0
+2025-04-11 12:17:36.528 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Backpack
+2025-04-11 12:17:36.528 [main] INFO  SauceLabsTestCases - Key: desc => Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+Add to cart
+2025-04-11 12:17:36.529 [main] INFO  SauceLabsTestCases - Key: price => $9.99
+2025-04-11 12:17:36.529 [main] INFO  SauceLabsTestCases - Key: listIdx => 1
+2025-04-11 12:17:36.529 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Bike Light
+2025-04-11 12:17:36.529 [main] INFO  SauceLabsTestCases - Key: desc => carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+2025-04-11 12:17:36.529 [main] INFO  SauceLabsTestCases - Key: price => $15.99
+2025-04-11 12:17:36.530 [main] INFO  SauceLabsTestCases - Key: listIdx => 2
+2025-04-11 12:17:36.530 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Bolt T-Shirt
+2025-04-11 12:17:36.530 [main] INFO  SauceLabsTestCases - Key: desc => Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Add to cart
+2025-04-11 12:17:36.530 [main] INFO  SauceLabsTestCases - Key: price => $49.99
+2025-04-11 12:17:36.530 [main] INFO  SauceLabsTestCases - Key: listIdx => 3
+2025-04-11 12:17:36.530 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Fleece Jacket
+2025-04-11 12:17:36.531 [main] INFO  SauceLabsTestCases - Key: desc => A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+2025-04-11 12:17:36.531 [main] INFO  SauceLabsTestCases - Key: price => $7.99
+2025-04-11 12:17:36.531 [main] INFO  SauceLabsTestCases - Key: listIdx => 4
+2025-04-11 12:17:36.531 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Onesie
+2025-04-11 12:17:36.531 [main] INFO  SauceLabsTestCases - Key: desc => Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+Add to cart
+2025-04-11 12:17:36.532 [main] INFO  SauceLabsTestCases - Key: price => $15.99
+2025-04-11 12:17:36.532 [main] INFO  SauceLabsTestCases - Key: listIdx => 5
+2025-04-11 12:17:36.532 [main] INFO  SauceLabsTestCases - Key: name => Test.allTheThings() T-Shirt (Red)
+2025-04-11 12:17:36.532 [main] INFO  SauceLabsTestCases - Key: desc => Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+2025-04-11 12:20:17.262 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:20:17.289 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:20:17.289 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:20:17.713 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 12:20:17.717 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 12:20:24.946 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 12:20:26.362 [main] WARN  ProductsPage - Item: Sauce Labs Onesie => $7.99
+2025-04-11 12:20:26.363 [main] INFO  SauceLabsTestCases - Item from Map: price
+2025-04-11 12:20:26.363 [main] INFO  SauceLabsTestCases - Item from Map: name
+2025-04-11 12:20:26.974 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:20:26.975 [main] INFO  SauceLabsTestCases - Key: price => $29.99
+2025-04-11 12:20:26.975 [main] INFO  SauceLabsTestCases - Key: listIdx => 0
+2025-04-11 12:20:26.975 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Backpack
+2025-04-11 12:20:26.975 [main] INFO  SauceLabsTestCases - Key: desc => Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+Add to cart
+2025-04-11 12:20:26.976 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:20:26.976 [main] INFO  SauceLabsTestCases - Key: price => $9.99
+2025-04-11 12:20:26.976 [main] INFO  SauceLabsTestCases - Key: listIdx => 1
+2025-04-11 12:20:26.976 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Bike Light
+2025-04-11 12:20:26.976 [main] INFO  SauceLabsTestCases - Key: desc => carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+2025-04-11 12:20:26.976 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:20:26.976 [main] INFO  SauceLabsTestCases - Key: price => $15.99
+2025-04-11 12:20:26.976 [main] INFO  SauceLabsTestCases - Key: listIdx => 2
+2025-04-11 12:20:26.977 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Bolt T-Shirt
+2025-04-11 12:20:26.977 [main] INFO  SauceLabsTestCases - Key: desc => Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Add to cart
+2025-04-11 12:20:26.977 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:20:26.977 [main] INFO  SauceLabsTestCases - Key: price => $49.99
+2025-04-11 12:20:26.977 [main] INFO  SauceLabsTestCases - Key: listIdx => 3
+2025-04-11 12:20:26.977 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Fleece Jacket
+2025-04-11 12:20:26.977 [main] INFO  SauceLabsTestCases - Key: desc => A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+2025-04-11 12:20:26.978 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:20:26.978 [main] INFO  SauceLabsTestCases - Key: price => $7.99
+2025-04-11 12:20:26.978 [main] INFO  SauceLabsTestCases - Key: listIdx => 4
+2025-04-11 12:20:26.978 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Onesie
+2025-04-11 12:20:26.978 [main] INFO  SauceLabsTestCases - Key: desc => Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+Add to cart
+2025-04-11 12:20:26.979 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:20:26.979 [main] INFO  SauceLabsTestCases - Key: price => $15.99
+2025-04-11 12:20:26.979 [main] INFO  SauceLabsTestCases - Key: listIdx => 5
+2025-04-11 12:20:26.979 [main] INFO  SauceLabsTestCases - Key: name => Test.allTheThings() T-Shirt (Red)
+2025-04-11 12:20:26.980 [main] INFO  SauceLabsTestCases - Key: desc => Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+2025-04-11 12:23:25.601 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:23:25.620 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:23:25.621 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:23:26.006 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 12:23:26.008 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 12:23:32.485 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 12:23:33.602 [main] WARN  ProductsPage - Item: Sauce Labs Onesie => $7.99
+2025-04-11 12:23:33.602 [main] INFO  SauceLabsTestCases - Item from Map: price
+2025-04-11 12:23:33.603 [main] INFO  SauceLabsTestCases - Item from Map: name
+2025-04-11 12:23:34.179 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:23:34.180 [main] INFO  SauceLabsTestCases - Key: price => $29.99
+2025-04-11 12:23:34.181 [main] INFO  SauceLabsTestCases - Key: listIdx => 0
+2025-04-11 12:23:34.181 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Backpack
+2025-04-11 12:23:34.181 [main] INFO  SauceLabsTestCases - Key: desc => carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+2025-04-11 12:23:34.181 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:23:34.181 [main] INFO  SauceLabsTestCases - Key: price => $9.99
+2025-04-11 12:23:34.181 [main] INFO  SauceLabsTestCases - Key: listIdx => 1
+2025-04-11 12:23:34.182 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Bike Light
+2025-04-11 12:23:34.182 [main] INFO  SauceLabsTestCases - Key: desc => A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+2025-04-11 12:23:34.182 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:23:34.182 [main] INFO  SauceLabsTestCases - Key: price => $15.99
+2025-04-11 12:23:34.182 [main] INFO  SauceLabsTestCases - Key: listIdx => 2
+2025-04-11 12:23:34.182 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Bolt T-Shirt
+2025-04-11 12:23:34.183 [main] INFO  SauceLabsTestCases - Key: desc => Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+2025-04-11 12:23:34.183 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:23:34.183 [main] INFO  SauceLabsTestCases - Key: price => $49.99
+2025-04-11 12:23:34.183 [main] INFO  SauceLabsTestCases - Key: listIdx => 3
+2025-04-11 12:23:34.183 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Fleece Jacket
+2025-04-11 12:23:34.184 [main] INFO  SauceLabsTestCases - Key: desc => It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.
+2025-04-11 12:23:34.184 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:23:34.184 [main] INFO  SauceLabsTestCases - Key: price => $7.99
+2025-04-11 12:23:34.184 [main] INFO  SauceLabsTestCases - Key: listIdx => 4
+2025-04-11 12:23:34.185 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Onesie
+2025-04-11 12:23:34.185 [main] INFO  SauceLabsTestCases - Key: desc => Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+2025-04-11 12:23:34.186 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:23:34.186 [main] INFO  SauceLabsTestCases - Key: price => $15.99
+2025-04-11 12:23:34.186 [main] INFO  SauceLabsTestCases - Key: listIdx => 5
+2025-04-11 12:23:34.186 [main] INFO  SauceLabsTestCases - Key: name => Test.allTheThings() T-Shirt (Red)
+2025-04-11 12:23:34.186 [main] INFO  SauceLabsTestCases - Key: desc => This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+2025-04-11 12:25:14.196 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:25:14.213 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:25:14.214 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:25:14.599 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 12:25:14.600 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 12:25:20.913 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 12:25:22.003 [main] WARN  ProductsPage - Item: Sauce Labs Onesie => $7.99
+2025-04-11 12:25:22.004 [main] INFO  SauceLabsTestCases - Item from Map: price
+2025-04-11 12:25:22.004 [main] INFO  SauceLabsTestCases - Item from Map: name
+2025-04-11 12:25:22.625 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:25:22.626 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Backpack
+2025-04-11 12:25:22.626 [main] INFO  SauceLabsTestCases - Key: desc => carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+2025-04-11 12:25:22.626 [main] INFO  SauceLabsTestCases - Key: price => $29.99
+2025-04-11 12:25:22.627 [main] INFO  SauceLabsTestCases - Key: listIdx => 0
+2025-04-11 12:25:22.627 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:25:22.627 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Bike Light
+2025-04-11 12:25:22.627 [main] INFO  SauceLabsTestCases - Key: desc => A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+2025-04-11 12:25:22.627 [main] INFO  SauceLabsTestCases - Key: price => $9.99
+2025-04-11 12:25:22.628 [main] INFO  SauceLabsTestCases - Key: listIdx => 1
+2025-04-11 12:25:22.628 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:25:22.628 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Bolt T-Shirt
+2025-04-11 12:25:22.629 [main] INFO  SauceLabsTestCases - Key: desc => Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+2025-04-11 12:25:22.629 [main] INFO  SauceLabsTestCases - Key: price => $15.99
+2025-04-11 12:25:22.629 [main] INFO  SauceLabsTestCases - Key: listIdx => 2
+2025-04-11 12:25:22.629 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:25:22.629 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Fleece Jacket
+2025-04-11 12:25:22.629 [main] INFO  SauceLabsTestCases - Key: desc => It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.
+2025-04-11 12:25:22.630 [main] INFO  SauceLabsTestCases - Key: price => $49.99
+2025-04-11 12:25:22.630 [main] INFO  SauceLabsTestCases - Key: listIdx => 3
+2025-04-11 12:25:22.630 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:25:22.631 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Onesie
+2025-04-11 12:25:22.631 [main] INFO  SauceLabsTestCases - Key: desc => Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+2025-04-11 12:25:22.631 [main] INFO  SauceLabsTestCases - Key: price => $7.99
+2025-04-11 12:25:22.632 [main] INFO  SauceLabsTestCases - Key: listIdx => 4
+2025-04-11 12:25:22.632 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:25:22.632 [main] INFO  SauceLabsTestCases - Key: name => Test.allTheThings() T-Shirt (Red)
+2025-04-11 12:25:22.632 [main] INFO  SauceLabsTestCases - Key: desc => This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+2025-04-11 12:25:22.632 [main] INFO  SauceLabsTestCases - Key: price => $15.99
+2025-04-11 12:25:22.632 [main] INFO  SauceLabsTestCases - Key: listIdx => 5
+2025-04-11 12:27:36.969 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:27:36.987 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:27:36.988 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:27:37.380 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 12:27:37.381 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 12:27:44.591 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 12:27:45.657 [main] WARN  ProductsPage - Item: Sauce Labs Onesie => $7.99
+2025-04-11 12:27:45.658 [main] INFO  SauceLabsTestCases - Item from Map: price
+2025-04-11 12:27:45.658 [main] INFO  SauceLabsTestCases - Item from Map: name
+2025-04-11 12:27:46.238 [main] WARN  SauceLabsTestCases - Number of map items: 4
+2025-04-11 12:27:46.238 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:27:46.239 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Backpack
+2025-04-11 12:27:46.239 [main] INFO  SauceLabsTestCases - Key: desc => carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+2025-04-11 12:27:46.239 [main] INFO  SauceLabsTestCases - Key: price => $29.99
+2025-04-11 12:27:46.240 [main] INFO  SauceLabsTestCases - Key: listIdx => 0
+2025-04-11 12:27:46.240 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:27:46.240 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Bike Light
+2025-04-11 12:27:46.240 [main] INFO  SauceLabsTestCases - Key: desc => A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+2025-04-11 12:27:46.240 [main] INFO  SauceLabsTestCases - Key: price => $9.99
+2025-04-11 12:27:46.240 [main] INFO  SauceLabsTestCases - Key: listIdx => 1
+2025-04-11 12:27:46.241 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:27:46.241 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Bolt T-Shirt
+2025-04-11 12:27:46.241 [main] INFO  SauceLabsTestCases - Key: desc => Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+2025-04-11 12:27:46.241 [main] INFO  SauceLabsTestCases - Key: price => $15.99
+2025-04-11 12:27:46.241 [main] INFO  SauceLabsTestCases - Key: listIdx => 2
+2025-04-11 12:27:46.241 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:27:46.241 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Fleece Jacket
+2025-04-11 12:27:46.241 [main] INFO  SauceLabsTestCases - Key: desc => It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.
+2025-04-11 12:27:46.241 [main] INFO  SauceLabsTestCases - Key: price => $49.99
+2025-04-11 12:27:46.242 [main] INFO  SauceLabsTestCases - Key: listIdx => 3
+2025-04-11 12:27:46.242 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:27:46.242 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Onesie
+2025-04-11 12:27:46.243 [main] INFO  SauceLabsTestCases - Key: desc => Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+2025-04-11 12:27:46.244 [main] INFO  SauceLabsTestCases - Key: price => $7.99
+2025-04-11 12:27:46.244 [main] INFO  SauceLabsTestCases - Key: listIdx => 4
+2025-04-11 12:27:46.244 [main] WARN  SauceLabsTestCases - 
+#=====================================================
+2025-04-11 12:27:46.244 [main] INFO  SauceLabsTestCases - Key: name => Test.allTheThings() T-Shirt (Red)
+2025-04-11 12:27:46.244 [main] INFO  SauceLabsTestCases - Key: desc => This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+2025-04-11 12:27:46.244 [main] INFO  SauceLabsTestCases - Key: price => $15.99
+2025-04-11 12:27:46.244 [main] INFO  SauceLabsTestCases - Key: listIdx => 5
+2025-04-11 12:28:53.048 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:28:53.065 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:28:53.066 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:28:53.454 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 12:28:53.455 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 12:29:00.435 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 12:29:01.609 [main] WARN  ProductsPage - Item: Sauce Labs Onesie => $7.99
+2025-04-11 12:29:01.610 [main] INFO  SauceLabsTestCases - Item from Map: price
+2025-04-11 12:29:01.611 [main] INFO  SauceLabsTestCases - Item from Map: name
+2025-04-11 12:29:02.198 [main] WARN  SauceLabsTestCases - Number of map items: 4
+2025-04-11 12:29:02.199 [main] WARN  SauceLabsTestCases - #=====================================================
+2025-04-11 12:29:02.199 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Backpack
+2025-04-11 12:29:02.200 [main] INFO  SauceLabsTestCases - Key: desc => carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+2025-04-11 12:29:02.200 [main] INFO  SauceLabsTestCases - Key: price => $29.99
+2025-04-11 12:29:02.200 [main] INFO  SauceLabsTestCases - Key: listIdx => 0
+2025-04-11 12:29:02.200 [main] WARN  SauceLabsTestCases - #=====================================================
+2025-04-11 12:29:02.201 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Bike Light
+2025-04-11 12:29:02.201 [main] INFO  SauceLabsTestCases - Key: desc => A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+2025-04-11 12:29:02.201 [main] INFO  SauceLabsTestCases - Key: price => $9.99
+2025-04-11 12:29:02.201 [main] INFO  SauceLabsTestCases - Key: listIdx => 1
+2025-04-11 12:29:02.202 [main] WARN  SauceLabsTestCases - #=====================================================
+2025-04-11 12:29:02.202 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Bolt T-Shirt
+2025-04-11 12:29:02.202 [main] INFO  SauceLabsTestCases - Key: desc => Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+2025-04-11 12:29:02.203 [main] INFO  SauceLabsTestCases - Key: price => $15.99
+2025-04-11 12:29:02.203 [main] INFO  SauceLabsTestCases - Key: listIdx => 2
+2025-04-11 12:29:02.203 [main] WARN  SauceLabsTestCases - #=====================================================
+2025-04-11 12:29:02.204 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Fleece Jacket
+2025-04-11 12:29:02.204 [main] INFO  SauceLabsTestCases - Key: desc => It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.
+2025-04-11 12:29:02.205 [main] INFO  SauceLabsTestCases - Key: price => $49.99
+2025-04-11 12:29:02.205 [main] INFO  SauceLabsTestCases - Key: listIdx => 3
+2025-04-11 12:29:02.205 [main] WARN  SauceLabsTestCases - #=====================================================
+2025-04-11 12:29:02.205 [main] INFO  SauceLabsTestCases - Key: name => Sauce Labs Onesie
+2025-04-11 12:29:02.205 [main] INFO  SauceLabsTestCases - Key: desc => Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+2025-04-11 12:29:02.206 [main] INFO  SauceLabsTestCases - Key: price => $7.99
+2025-04-11 12:29:02.206 [main] INFO  SauceLabsTestCases - Key: listIdx => 4
+2025-04-11 12:29:02.206 [main] WARN  SauceLabsTestCases - #=====================================================
+2025-04-11 12:29:02.206 [main] INFO  SauceLabsTestCases - Key: name => Test.allTheThings() T-Shirt (Red)
+2025-04-11 12:29:02.206 [main] INFO  SauceLabsTestCases - Key: desc => This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+2025-04-11 12:29:02.207 [main] INFO  SauceLabsTestCases - Key: price => $15.99
+2025-04-11 12:29:02.207 [main] INFO  SauceLabsTestCases - Key: listIdx => 5
+2025-04-11 12:36:17.602 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:36:17.620 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:36:17.621 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:36:18.048 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 12:36:18.049 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 12:36:24.550 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 12:36:58.879 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:36:58.898 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:36:58.899 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:36:59.295 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 12:36:59.297 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 12:37:05.708 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 12:42:28.958 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:42:28.975 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:42:28.976 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:42:29.362 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 12:42:29.365 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 12:42:35.831 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 12:45:09.228 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:45:09.246 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:45:09.247 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:45:09.642 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 12:45:09.644 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 12:45:16.193 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 12:45:24.686 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-11 12:46:17.813 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:46:17.831 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:46:17.832 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 12:46:18.199 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 12:46:18.202 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 12:46:25.080 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 12:46:33.512 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-11 13:00:44.241 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 13:00:44.265 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 13:00:44.266 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 13:00:44.769 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 13:00:44.770 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 13:00:52.107 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 13:01:00.582 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-11 13:01:06.285 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 13:01:06.339 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 13:01:06.381 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 13:01:06.416 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 13:17:08.391 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 13:17:08.407 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 13:17:08.408 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 13:17:08.731 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 13:17:08.733 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 13:17:14.889 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 13:17:23.687 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-11 13:17:28.881 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 13:17:28.919 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 13:17:28.944 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 13:17:28.966 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 13:17:29.003 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 13:17:29.031 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 13:17:29.057 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 13:17:29.083 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 13:23:26.951 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 13:23:26.969 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 13:23:26.970 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 13:23:27.361 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 13:23:27.362 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 13:23:34.705 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 13:23:43.246 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-11 13:23:48.642 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 13:23:48.741 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 13:23:48.774 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 13:23:48.809 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 13:23:48.858 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 13:23:48.892 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 13:23:48.925 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 13:23:48.960 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 13:24:28.554 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 13:24:28.572 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 13:24:28.573 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 13:24:28.935 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 13:24:28.936 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 13:24:35.497 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 13:24:44.003 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-11 13:24:49.278 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 13:24:49.312 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 13:24:49.348 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 13:24:49.381 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 13:24:49.430 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 13:24:49.471 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 13:24:49.497 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 13:24:49.521 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 13:24:51.650 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 13:24:51.677 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-11 13:24:51.703 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 14:34:33.153 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 14:34:33.174 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 14:34:33.175 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 14:34:33.570 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 14:34:33.571 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 14:34:41.443 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 14:34:49.978 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-11 14:34:55.343 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 14:34:55.381 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 14:34:55.418 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 14:34:55.455 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 14:34:55.520 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 14:34:55.564 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 14:34:55.603 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 14:34:55.646 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 14:34:57.878 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 14:34:57.905 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-11 14:34:57.928 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 14:35:10.038 [main] INFO  YourCart - Item Idx: 0 for => Sauce Labs Backpack
+2025-04-11 14:35:10.068 [main] INFO  YourCart - Old Qty: 1
+2025-04-11 14:42:27.242 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 14:42:27.260 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 14:42:27.262 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 14:42:27.630 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 14:42:27.632 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 14:42:34.817 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 14:42:43.542 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-11 14:42:48.814 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 14:42:48.852 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 14:42:48.879 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 14:42:48.904 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 14:42:48.955 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 14:42:48.988 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 14:42:49.022 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 14:42:49.052 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 14:42:51.225 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 14:42:51.253 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-11 14:42:51.279 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 14:43:03.453 [main] INFO  YourCart - Item Idx: 0 for => Sauce Labs Backpack
+2025-04-11 14:43:03.487 [main] INFO  YourCart - Item Qty: 1
+2025-04-11 14:43:40.712 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 14:43:40.730 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 14:43:40.731 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 14:43:41.120 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 14:43:41.121 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 14:43:48.007 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 14:43:56.617 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-11 14:44:01.933 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 14:44:02.011 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 14:44:02.069 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 14:44:02.101 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 14:44:02.153 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 14:44:02.181 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 14:44:02.209 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 14:44:02.231 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 14:44:04.411 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 14:44:04.450 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-11 14:44:04.484 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 14:44:16.638 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-11 14:44:16.673 [main] INFO  YourCart - Item Qty: 1
+2025-04-11 15:20:32.765 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 15:20:32.783 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 15:20:32.785 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 15:20:33.221 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 15:20:33.222 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 15:20:42.474 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 15:20:51.721 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-11 15:20:57.143 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 15:20:57.215 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 15:20:57.266 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 15:20:57.329 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 15:20:57.369 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 15:20:57.400 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 15:20:57.428 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 15:20:57.460 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 15:20:59.627 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 15:20:59.654 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-11 15:20:59.680 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 15:21:11.849 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-11 15:21:11.882 [main] INFO  YourCart - Item Qty: 1
+2025-04-11 16:00:34.184 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 16:00:34.204 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 16:00:34.205 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 16:00:34.607 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 16:00:34.610 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 16:00:43.282 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 16:00:52.191 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-11 16:00:57.406 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:00:57.454 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 16:00:57.482 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 16:00:57.519 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 16:00:57.602 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:00:57.648 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 16:00:57.681 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 16:00:57.715 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 16:00:59.898 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:00:59.927 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-11 16:00:59.952 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 16:01:12.145 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-11 16:01:12.178 [main] INFO  YourCart - Item Qty: 1
+2025-04-11 16:01:23.024 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:01:23.052 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-11 16:01:23.073 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Bike Light
+2025-04-11 16:01:23.087 [main] INFO  SauceLabsTestCases - Item Sauce Labs Bike Light found in cart!
+2025-04-11 16:02:35.439 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 16:02:35.458 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 16:02:35.459 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 16:02:35.835 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 16:02:35.837 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 16:02:42.394 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 16:02:50.864 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-11 16:02:56.091 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:02:56.136 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 16:02:56.167 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 16:02:56.204 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 16:02:56.254 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:02:56.289 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 16:02:56.353 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 16:02:56.386 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 16:02:58.570 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:02:58.596 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-11 16:02:58.622 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 16:03:10.785 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-11 16:03:10.814 [main] INFO  YourCart - Item Qty: 1
+2025-04-11 16:03:26.642 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:03:26.673 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-11 16:03:26.698 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Bike Light
+2025-04-11 16:03:26.711 [main] INFO  SauceLabsTestCases - Item "Sauce Labs Bike Light" found in cart!
+2025-04-11 16:05:07.906 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 16:05:07.923 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 16:05:07.924 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 16:05:08.285 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 16:05:08.285 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 16:05:14.728 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 16:05:23.255 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-11 16:05:28.500 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:05:28.536 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 16:05:28.562 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 16:05:28.584 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 16:05:28.618 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:05:28.650 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 16:05:28.678 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 16:05:28.701 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 16:05:30.875 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:05:30.903 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-11 16:05:30.927 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 16:05:43.088 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-11 16:05:43.121 [main] INFO  YourCart - Item Qty: 1
+2025-04-11 16:05:59.005 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:05:59.042 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-11 16:05:59.064 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Bike Light
+2025-04-11 16:05:59.075 [main] INFO  SauceLabsTestCases - Item "Sauce Labs Bike Light" found in cart!
+2025-04-11 16:11:36.337 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 16:11:36.362 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 16:11:36.364 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 16:11:36.784 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 16:11:36.786 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 16:11:43.519 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 16:11:52.070 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-11 16:11:57.319 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:11:57.366 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 16:11:57.406 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 16:11:57.444 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 16:11:57.494 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:11:57.518 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 16:11:57.550 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 16:11:57.579 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 16:11:59.748 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:11:59.780 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-11 16:11:59.807 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 16:12:11.965 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-11 16:12:11.998 [main] INFO  YourCart - Item Qty: 1
+2025-04-11 16:12:27.936 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:12:27.973 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-11 16:12:27.998 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Bike Light
+2025-04-11 16:12:28.011 [main] INFO  SauceLabsTestCases - Item "Sauce Labs Bike Light" found in cart!
+2025-04-11 16:13:11.976 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 16:13:11.995 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 16:13:11.996 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-11 16:13:12.383 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-11 16:13:12.385 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-11 16:13:18.987 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-11 16:13:27.497 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-11 16:13:32.797 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:13:32.839 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 16:13:32.868 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 16:13:32.907 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 16:13:32.957 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:13:32.987 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-11 16:13:33.014 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-11 16:13:33.045 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 16:13:35.221 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:13:35.250 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-11 16:13:35.274 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-11 16:13:47.435 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-11 16:13:47.468 [main] INFO  YourCart - Item Qty: 1
+2025-04-11 16:13:59.328 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-11 16:13:59.351 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-11 16:13:59.375 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Bike Light
+2025-04-11 16:13:59.386 [main] INFO  SauceLabsTestCases - Item "Sauce Labs Bike Light" found in cart!

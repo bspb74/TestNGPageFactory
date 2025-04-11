@@ -1,10 +1,9 @@
-package com.testng.qa.pages;
+package com.testng.qa.pagesHerokuApp;
 
 import com.testng.qa.base.TestBase;
+import com.testng.qa.pageNavigation.BasePage;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindAll;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.FindBys;
 import org.openqa.selenium.support.PageFactory;
 
 import java.util.ArrayList;

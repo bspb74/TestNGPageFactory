@@ -4,12 +4,14 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import com.testng.qa.pages.PagesInterface;
+import com.testng.qa.pageNavigation.BasePage;
+import com.testng.qa.pagesHerokuApp.ContentsPage;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class HerokuAppNavigation implements PagesInterface {
-
+public class HerokuAppNavigation {
+    ContentsPage cp = new ContentsPage();
+    BasePage bp = new BasePage();
     Logger log = LogManager.getLogger(HerokuAppNavigation.class.getSimpleName());
 
     public void createFindBySyntax() {
@@ -42,7 +44,7 @@ public class HerokuAppNavigation implements PagesInterface {
             String methodName = n.substring(0,1).toUpperCase() + n.substring(1);
             System.out.println("\n\tpublic void test" + methodName +"Page() {");
             System.out.println("\t\tcp.click" + methodName + "();");
-            System.out.println("\t\tbp.navigateBack();\n\t}");
+            System.out.println("\t\tBASE_PAGE.navigateBack();\n\t}");
         });
     }
 

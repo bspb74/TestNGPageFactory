@@ -14,7 +14,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <skip.surefire.tests>false</skip.surefire.tests>
         <skip.failsafe.tests>false</skip.failsafe.tests>
-        <suiteXmlFile>testng.xml</suiteXmlFile>
+<!--        <suiteXmlFile>HerokuApp_testng.xml</suiteXmlFile>-->
+        <suiteXmlFile>SauceLabs_testng.xml</suiteXmlFile>
     </properties>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->

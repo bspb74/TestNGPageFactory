@@ -23,10 +23,11 @@ public class LoginPage extends TestBase {
     @FindBy(id="login-button")
     private WebElement loginBtn;
 
-    public void verifyLogin(String uname, String pwd) {
+    public ProductsPage loginToSauceLabs(String uname, String pwd) {
         username.sendKeys(uname);
         password.sendKeys(pwd);
         loginBtn.click();
+        return new ProductsPage();
     }
     public void entersUsername(String uname) {
         username.sendKeys(uname);
