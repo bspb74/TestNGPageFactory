@@ -1,4 +1,4 @@
-package com.testng.qa.pages;
+package com.testng.qa.pagesHerokuApp;
 
 import com.testng.qa.base.TestBase;
 
