@@ -2,6 +2,7 @@ package com.testng.qa.pagesSauceLabs;
 
 import com.testng.qa.base.TestBase;
 import com.testng.qa.pageNavigation.BasePage;
+import com.testng.qa.utility.TestListenerClass;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebElement;
@@ -68,6 +69,7 @@ public class YourCart extends TestBase {
                     removeShoppingCartItem(cartItemIdx.get());
                 }
                 cartItemIdx.getAndIncrement();
+                TestListenerClass.testStepScreenshot("removing_item_" + item);
             });
             bp.waitTimer(2);
         }

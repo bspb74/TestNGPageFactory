@@ -13,12 +13,16 @@ public class ExtentManager {
     public static ExtentReports extent;
     public static ExtentTest test;
 
+    private static String extentBasePath = System.getProperty("user.dir") + File.separator + "test-output" +
+            File.separator + "ExtentReport";
+    private static String extentReportCfg = System.getProperty("user.dir") + File.separator + "src" + File.separator +
+            "main" + File.separator + "resources" + File.separator + "extent-config.xml";
+
     public static void setExtent() {
-        htmlReporter= new ExtentSparkReporter(System
-                .getProperty("user.dir")+"/test-output/ExtentReport/"+"MyReport_"+ScreenShot.getCurrentTime()+".html");
+        htmlReporter= new ExtentSparkReporter(DateUtils.makeDirByDate(extentBasePath) + File.separator + "ER_" +
+                ScreenShot.getCurrentTime() + ".html");
         try {
-            htmlReporter.loadXMLConfig(System.getProperty("user.dir") + File.separator + "src" + File.separator +
-                    "main" + File.separator + "resources" + File.separator + "extent-config.xml");
+            htmlReporter.loadXMLConfig(extentReportCfg);
         } catch (IOException e) {
             e.getMessage();
         }

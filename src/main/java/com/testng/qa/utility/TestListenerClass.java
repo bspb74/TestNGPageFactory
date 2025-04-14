@@ -1,6 +1,7 @@
 package com.testng.qa.utility;
 
 import java.io.IOException;
+import java.util.Arrays;
 
 import com.testng.qa.base.TestBase;
 import org.testng.ITestContext;
@@ -17,16 +18,18 @@ public class TestListenerClass extends ExtentManager implements ITestListener {
     private static Logger log = LogManager.getLogger(TestListenerClass.class.getSimpleName());
 
     public static void testStepScreenshot(String stepName) {
-        log.info("Adding screenshot: " + stepName);
+        String ssPath = ScreenShot.takeScreenShot(stepName);
+        log.info("Adding screenshot: " + ssPath);
         try {
-            test.addScreenCaptureFromPath(ScreenShot.takeScreenShot(stepName));
+            test.addScreenCaptureFromPath(ssPath, MarkupHelper.createLabel(stepName, ExtentColor.GREEN).getMarkup());
         } catch (Exception e) {
-            log.error(("Cannot add Screenshot: " + e.getMessage()));
+            log.error("Cannot add Screenshot: " + Arrays.toString(e.getStackTrace()));
         }
     }
     public void onTestStart(ITestResult result) {
         test = extent.createTest(result.getName());
     }
+
     public void onTestSuccess(ITestResult result) {
         if (result.getStatus() == ITestResult.SUCCESS) {
             test.log(Status.PASS, "Pass Test case is: " + result.getName());

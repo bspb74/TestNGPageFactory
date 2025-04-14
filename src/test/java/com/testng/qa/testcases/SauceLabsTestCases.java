@@ -27,7 +27,7 @@ public class SauceLabsTestCases implements SauceLabsPages {
         sortMap.put("lohi", "Price (low to high)");
         PRODUCTS_PAGE.selectSorting(sortTxt);
         String selectedItem = PRODUCTS_PAGE.getSelectedItem();
-        TestListenerClass.testStepScreenshot("selectSorting");
+        TestListenerClass.testStepScreenshot("selectSorting_" + sortTxt);
         Assert.assertEquals(sortMap.get(sortTxt), selectedItem);
         BASE_PAGE.waitTimer(1);
     }
@@ -36,7 +36,7 @@ public class SauceLabsTestCases implements SauceLabsPages {
         PRODUCTS_PAGE.selectSorting(sortTxt);
         String prodName = PRODUCTS_PAGE.getFirstOrLastItemName(itemLocation);
         log.info(itemLocation.toUpperCase() + " => " + prodName);
-        TestListenerClass.testStepScreenshot("getItemByLocation");
+        TestListenerClass.testStepScreenshot("getItemByLocation_" + sortTxt + "-" + itemLocation);
         Assert.assertEquals(itemName, prodName);
         BASE_PAGE.waitTimer(1);
     }
@@ -46,7 +46,7 @@ public class SauceLabsTestCases implements SauceLabsPages {
         for (Map.Entry m:itemMap.entrySet()) {
             log.info("Item from Map: " + m.getKey().toString());
         }
-        TestListenerClass.testStepScreenshot("getItemInfo");
+        TestListenerClass.testStepScreenshot("getItemInfo_" + name.replaceAll("\\s","-"));
     }
 
     public void Test_getAllItems() {
@@ -69,7 +69,7 @@ public class SauceLabsTestCases implements SauceLabsPages {
             BASE_PAGE.waitTimer(1);
             if ("add".equalsIgnoreCase(v)) {
                 addedIdx.getAndIncrement();
-                TestListenerClass.testStepScreenshot("addItem_" + v);
+                TestListenerClass.testStepScreenshot("addItem_" + k);
             }
         });
         TestListenerClass.testStepScreenshot("productsPageAfterAddition");
@@ -84,13 +84,14 @@ public class SauceLabsTestCases implements SauceLabsPages {
                 "Test.allTheThings() T-Shirt (Red)"));
         YOUR_CART.removeShoppingCartItems(removeItemsList);
         TestListenerClass.testStepScreenshot("shoppingCartAfterRemoval");
-        BASE_PAGE.waitTimer(10);
+        BASE_PAGE.waitTimer(1);
     }
 
     public void Test_verifyItemCountInCart(String itemName) {
-        TestListenerClass.testStepScreenshot("gettingShoppingCartCount");
+        TestListenerClass.testStepScreenshot("gettingShoppingCartCount_" +
+                itemName.replaceAll("\\s", "-"));
         YOUR_CART.checkItemCount(itemName);
-        BASE_PAGE.waitTimer(10);
+        BASE_PAGE.waitTimer(1);
         YOUR_CART.returnToProductsPage();
     }
 
