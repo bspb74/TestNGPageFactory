@@ -17,28 +17,7 @@ public class ProductsPage extends TestBase {
 
     private static Logger log = LogManager.getLogger(ProductsPage.class.getSimpleName());
 
-    @FindBy(xpath = "//span[@class=\"title\"]")
-    WebElement title;
-
-    @FindBy(id = "react-burger-menu-btn")
-    WebElement appMenuBtn;
-
-    @FindBy(xpath = "//a[contains(text(),\"All Items\")]")
-    WebElement allItemsLink;
-
-    @FindBy(xpath = "//a[contains(text(),\"About\")]")
-    WebElement aboutLink;
-
-    @FindBy(xpath = "//a[contains(text(),\"Logout\")]")
-    WebElement logoutLink;
-
-    @FindBy(xpath = "//a[contains(text(),\"Reset App State\")]")
-    WebElement resetAppStateLink;
-
-    @FindBy(xpath = "//a[contains(@class,'shopping_cart_link')]")
-    WebElement cartLink;
-
-    @FindBy(xpath = "//select[contains(@class,'product_sort_container')]")
+   @FindBy(xpath = "//select[contains(@class,'product_sort_container')]")
     WebElement productSort;
 
     @FindBy(xpath = "//div[contains(@class,\"inventory_item_name\")]")
@@ -154,10 +133,5 @@ public class ProductsPage extends TestBase {
     public void navigateToItemPageByName(String itemName) {
         int itemIdx = getItemIdx(itemName);
         itemLinks.get(itemIdx).click();
-    }
-
-    public void signOut() {
-        appMenuBtn.click();
-        logoutLink.click();
     }
 }

@@ -87,15 +87,19 @@ public class SauceLabsTestCases implements SauceLabsPages {
         BASE_PAGE.waitTimer(1);
     }
 
-    public void Test_verifyItemCountInCart(String itemName) {
+    public void Test_verifyItemCountInCart(String itemName, int count) {
         TestListenerClass.testStepScreenshot("gettingShoppingCartCount_" +
                 itemName.replaceAll("\\s", "-"));
-        YOUR_CART.checkItemCount(itemName);
+        boolean countVerified = YOUR_CART.checkItemCount(itemName, count);
+        Assert.assertTrue(countVerified, "Count should be => " + count);
         BASE_PAGE.waitTimer(1);
         YOUR_CART.returnToProductsPage();
     }
 
     public void Test_individualProductPageByName(String itemName) {
+        if (!BASE_PAGE.getPageTite().equalsIgnoreCase("Products")) {
+            BASE_PAGE.navigateToAllItems();
+        }
         PRODUCTS_PAGE.navigateToItemPageByName(itemName);
         TestListenerClass.testStepScreenshot("itemPage" + itemName);
         String productItemName = PRODUCT_PAGE.getItemName();
@@ -123,7 +127,7 @@ public class SauceLabsTestCases implements SauceLabsPages {
         Assert.assertTrue(itemInCart.get());
         BASE_PAGE.waitTimer(1);
         YOUR_CART.returnToProductsPage();
-        PRODUCTS_PAGE.signOut();
+        BASE_PAGE.signOut();
         BASE_PAGE.waitTimer(1);
     }
 

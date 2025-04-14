@@ -8,6 +8,7 @@ import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
@@ -79,13 +80,14 @@ public class YourCart extends TestBase {
         itemRemoveBtns.get(idx).click();
     }
 
-    public void checkItemCount(String itemName) {
+    public boolean checkItemCount(String itemName, int count) {
         List<String> itemNameList = new ArrayList<>();
         itemNames.forEach(i -> itemNameList.add(i.getText()));
         int itemIdx = itemNameList.indexOf(itemName);
         log.info("Item Idx: " + itemIdx + " for => " + itemName);
         String currentQtyForItem = itemQuantities.get(itemIdx).getText();
         log.info("Item Qty: " + currentQtyForItem);
+        return String.valueOf(count).equalsIgnoreCase(currentQtyForItem);
     }
 
     public void returnToProductsPage() {

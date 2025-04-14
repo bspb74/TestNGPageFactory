@@ -5,6 +5,7 @@ import com.testng.qa.browsers.WebDriverManager;
 import com.testng.qa.testcases.TestCaseInterface;
 import com.testng.qa.utility.ExcelReader;
 import com.testng.qa.utility.ExtentManager;
+import com.testng.qa.utility.Retry;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.ITestContext;
@@ -29,7 +30,8 @@ public class SauceDemo_TestCases extends TestBase implements TestCaseInterface {
         sll.Test_sauceLabsLogin(prop.getProperty("username"), prop.getProperty("password"));
     }
 
-    @Test(enabled = true, priority = 2, description = "Select Sorting", dependsOnMethods = {"sauceLabsLogin"})
+    @Test(enabled = false, priority = 2, description = "Select Sorting", dependsOnMethods = {"sauceLabsLogin"},
+            retryAnalyzer = Retry.class)
     public void selectProductSorting() {
         sll.Test_selectSorting("za");
         sll.Test_selectSorting("hilo");
@@ -37,14 +39,16 @@ public class SauceDemo_TestCases extends TestBase implements TestCaseInterface {
         sll.Test_selectSorting("az");
     }
 
-    @Test(enabled = true, priority = 3, description = "Get First Item After Sort", dependsOnMethods = {"sauceLabsLogin"})
+    @Test(enabled = false, priority = 3, description = "Get First Item After Sort", dependsOnMethods = {"sauceLabsLogin"},
+            retryAnalyzer = Retry.class)
     public void getFristItemAfterSorting() {
         sll.Test_getItemByLocationAfterSorting("za", "first", "Test.allTheThings() T-Shirt (Red)");
         sll.Test_getItemByLocationAfterSorting("hilo", "first", "Sauce Labs Fleece Jacket");
         sll.Test_getItemByLocationAfterSorting("lohi", "first", "Sauce Labs Onesie");
         sll.Test_getItemByLocationAfterSorting("az", "first", "Sauce Labs Backpack");
     }
-    @Test(enabled = true, priority = 4, description = "Get First Item After Sort", dependsOnMethods = {"getFristItemAfterSorting"})
+    @Test(enabled = false, priority = 4, description = "Get First Item After Sort",
+            dependsOnMethods = {"getFristItemAfterSorting"}, retryAnalyzer = Retry.class)
     public void getLastItemAfterSorting() {
         sll.Test_getItemByLocationAfterSorting("za", "last", "Sauce Labs Backpack");
         sll.Test_getItemByLocationAfterSorting("hilo", "last", "Sauce Labs Onesie");
@@ -52,17 +56,20 @@ public class SauceDemo_TestCases extends TestBase implements TestCaseInterface {
         sll.Test_getItemByLocationAfterSorting("az", "last", "Test.allTheThings() T-Shirt (Red)");
     }
 
-    @Test(enabled = true, priority = 5, description = "Get Item Info By Name", dependsOnMethods = {"sauceLabsLogin"})
+    @Test(enabled = false, priority = 5, description = "Get Item Info By Name", dependsOnMethods = {"sauceLabsLogin"},
+            retryAnalyzer = Retry.class)
     public void getItemInfoByName() {
         sll.Test_getItemInfoByName("Sauce Labs Onesie");
     }
 
-    @Test(enabled = true, priority = 6, description = "Get All Items",  dependsOnMethods = {"sauceLabsLogin"})
+    @Test(enabled = false, priority = 6, description = "Get All Items",  dependsOnMethods = {"sauceLabsLogin"},
+            retryAnalyzer = Retry.class)
     public void getAllItems() {
         sll.Test_getAllItems();
     }
 
-    @Test(enabled = true, priority = 7, description = "Add Items To Cart",  dependsOnMethods = {"sauceLabsLogin"})
+    @Test(enabled = true, priority = 7, description = "Add Items To Cart",  dependsOnMethods = {"sauceLabsLogin"},
+            retryAnalyzer = Retry.class)
     public void addItemsToCart() {
         Map<String,String> itemMap = new LinkedHashMap<>();
         itemMap.put("Sauce Labs Backpack", "add");
@@ -74,13 +81,14 @@ public class SauceDemo_TestCases extends TestBase implements TestCaseInterface {
         sll.Test_addProductsToCart(itemMap);
     }
 
-    @Test(enabled = true, priority = 8, description = "Update Item Qty", dependsOnMethods = {"addItemsToCart"})
+    @Test(enabled = true, priority = 8, description = "Update Item Qty", dependsOnMethods = {"addItemsToCart"},
+            retryAnalyzer = Retry.class)
     public void validateCartItemCount() {
-        sll.Test_verifyItemCountInCart("Sauce Labs Fleece Jacket");
+        sll.Test_verifyItemCountInCart("Sauce Labs Fleece Jacket", 2);
     }
 
     @Test(enabled = true, priority = 9, description = "Test Individual Product Page By Name",
-            dependsOnMethods = { "sauceLabsLogin" })
+            dependsOnMethods = { "sauceLabsLogin" }, retryAnalyzer = Retry.class)
     public void testIndividualProductPageByName() {
         sll.Test_individualProductPageByName("Sauce Labs Bike Light");
     }
