@@ -3,7 +3,7 @@
     <configuration>
         <!-- report theme -->
         <!-- standard, dark -->
-        <theme>standard</theme>
+        <theme>dark</theme>
 
         <!-- document encoding -->
         <!-- defaults to UTF-8 -->
@@ -14,10 +14,10 @@
         <protocol>http</protocol>
 
         <!-- title of the document -->
-        <documentTitle>OrangeHRMProject</documentTitle>
+        <documentTitle>Sauce Labs Automation Testing</documentTitle>
 
         <!-- report name - displayed at top-nav -->
-        <reportName>OrangeHRMProject Report
+        <reportName>SauceLabs Automation Report
             <![CDATA[
                 <img src='D:/Workspace_Eclipse/ExtentDemo/Logo/ATI.png'/>
             ]]>

@@ -1,0 +1,20 @@
+2025-04-14 11:12:09.350 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-14 11:12:09.366 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-14 11:12:09.367 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-14 11:12:09.740 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-14 11:12:09.745 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-14 11:12:17.447 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-14 11:12:25.976 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-14 11:12:31.221 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 11:12:31.264 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-14 11:12:31.293 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-14 11:12:31.332 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 11:12:31.374 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 11:12:31.400 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-14 11:12:31.425 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-14 11:12:31.458 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 11:12:33.649 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 11:12:33.685 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-14 11:12:33.721 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 11:12:45.926 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 11:12:45.969 [main] INFO  YourCart - Item Qty: 1

@@ -1,5 +1,6 @@
 package com.testng.qa.base;
 
+import com.testng.qa.utility.ExtentManager;
 import com.testng.qa.utility.TestUtil;
 import com.testng.qa.browsers.WebDriverManager;
 import org.openqa.selenium.WebDriver;
@@ -11,6 +12,8 @@ import java.time.Duration;
 import java.util.Properties;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.BeforeSuite;
 
 public class TestBase {
 
@@ -55,5 +58,15 @@ public class TestBase {
         sb.append(String.join(File.separator, dirs));
         log.info("File: " + sb);
         return sb.toString();
+    }
+
+    @BeforeSuite
+    public void initializeExtentManager() {
+        ExtentManager.setExtent();
+    }
+
+    @AfterSuite
+    public void teardownExtentManager() {
+        ExtentManager.endReport();
     }
 }

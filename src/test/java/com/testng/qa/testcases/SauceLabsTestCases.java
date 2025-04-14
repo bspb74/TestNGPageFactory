@@ -1,6 +1,8 @@
 package com.testng.qa.testcases;
 
 import com.testng.qa.pagesSauceLabs.SauceLabsPages;
+import com.testng.qa.utility.ScreenShot;
+import com.testng.qa.utility.TestListenerClass;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
@@ -25,6 +27,7 @@ public class SauceLabsTestCases implements SauceLabsPages {
         sortMap.put("lohi", "Price (low to high)");
         PRODUCTS_PAGE.selectSorting(sortTxt);
         String selectedItem = PRODUCTS_PAGE.getSelectedItem();
+        TestListenerClass.testStepScreenshot("selectSorting");
         Assert.assertEquals(sortMap.get(sortTxt), selectedItem);
         BASE_PAGE.waitTimer(1);
     }
@@ -33,6 +36,7 @@ public class SauceLabsTestCases implements SauceLabsPages {
         PRODUCTS_PAGE.selectSorting(sortTxt);
         String prodName = PRODUCTS_PAGE.getFirstOrLastItemName(itemLocation);
         log.info(itemLocation.toUpperCase() + " => " + prodName);
+        TestListenerClass.testStepScreenshot("getItemByLocation");
         Assert.assertEquals(itemName, prodName);
         BASE_PAGE.waitTimer(1);
     }
@@ -42,6 +46,7 @@ public class SauceLabsTestCases implements SauceLabsPages {
         for (Map.Entry m:itemMap.entrySet()) {
             log.info("Item from Map: " + m.getKey().toString());
         }
+        TestListenerClass.testStepScreenshot("getItemInfo");
     }
 
     public void Test_getAllItems() {
@@ -54,6 +59,7 @@ public class SauceLabsTestCases implements SauceLabsPages {
                 log.info("Key: " + s + " => " + m.get(s).toString());
             }
         });
+        TestListenerClass.testStepScreenshot("getAllItems");
     }
 
     public void Test_addProductsToCart(Map<String,String> items) {
@@ -63,21 +69,26 @@ public class SauceLabsTestCases implements SauceLabsPages {
             BASE_PAGE.waitTimer(1);
             if ("add".equalsIgnoreCase(v)) {
                 addedIdx.getAndIncrement();
+                TestListenerClass.testStepScreenshot("addItem_" + v);
             }
         });
+        TestListenerClass.testStepScreenshot("productsPageAfterAddition");
         int cartCount = PRODUCTS_PAGE.getCartCount();
         log.info("Cart Count: " + cartCount);
         Assert.assertEquals(addedIdx.get(), cartCount);
         BASE_PAGE.waitTimer(5);
         PRODUCTS_PAGE.clickShoppingCartBtn();
+        TestListenerClass.testStepScreenshot("shoppingCart");
         YOUR_CART.listShoppingCartItems();
         List<String> removeItemsList = new ArrayList<>(Arrays.asList("Sauce Labs Bolt T-Shirt",
                 "Test.allTheThings() T-Shirt (Red)"));
         YOUR_CART.removeShoppingCartItems(removeItemsList);
+        TestListenerClass.testStepScreenshot("shoppingCartAfterRemoval");
         BASE_PAGE.waitTimer(10);
     }
 
     public void Test_verifyItemCountInCart(String itemName) {
+        TestListenerClass.testStepScreenshot("gettingShoppingCartCount");
         YOUR_CART.checkItemCount(itemName);
         BASE_PAGE.waitTimer(10);
         YOUR_CART.returnToProductsPage();
@@ -85,6 +96,7 @@ public class SauceLabsTestCases implements SauceLabsPages {
 
     public void Test_individualProductPageByName(String itemName) {
         PRODUCTS_PAGE.navigateToItemPageByName(itemName);
+        TestListenerClass.testStepScreenshot("itemPage" + itemName);
         String productItemName = PRODUCT_PAGE.getItemName();
         Assert.assertEquals(itemName, productItemName);
         String itemAction = PRODUCT_PAGE.getItemButtonAction();
@@ -93,8 +105,10 @@ public class SauceLabsTestCases implements SauceLabsPages {
         } else {
             PRODUCT_PAGE.addItem();
         }
+        TestListenerClass.testStepScreenshot("addOrRemoveItem_" + itemName);
         BASE_PAGE.waitTimer(1);
         PRODUCTS_PAGE.clickShoppingCartBtn();
+        TestListenerClass.testStepScreenshot("shoppingCartForItem_" + itemName);
         Map<String,Object> cartItemsMap = YOUR_CART.listShoppingCartItems();
         AtomicBoolean itemInCart = new AtomicBoolean();
         cartItemsMap.forEach((k,v) -> {
