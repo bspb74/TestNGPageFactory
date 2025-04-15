@@ -1,7 +1,6 @@
 package com.testng.qa.testcases;
 
 import com.testng.qa.pagesSauceLabs.SauceLabsPages;
-import com.testng.qa.utility.ScreenShot;
 import com.testng.qa.utility.TestListenerClass;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

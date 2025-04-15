@@ -14,6 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <skip.surefire.tests>false</skip.surefire.tests>
         <skip.failsafe.tests>false</skip.failsafe.tests>
+        <propertiesFile>config-firefox.properties</propertiesFile>
 <!--        <suiteXmlFile>HerokuApp_testng.xml</suiteXmlFile>-->
         <suiteXmlFile>SauceLabs_testng.xml</suiteXmlFile>
     </properties>
@@ -200,6 +201,7 @@
                         <excelPath>src\main\java\com\testng\qa\data</excelPath>
                         <ssName>addresses.xlsx</ssName>
                         <wsName>addrs</wsName>
+                        <properties.file>${propertiesFile}</properties.file>
                     </systemPropertyVariables>
                     <suiteXmlFiles>
                         <suiteXmlFile>src/main/resources/${suiteXmlFile}</suiteXmlFile>
@@ -227,6 +229,7 @@
                                 <excelPath>src\main\java\com\testng\qa\data</excelPath>
                                 <ssName>addresses.xlsx</ssName>
                                 <wsName>addrs</wsName>
+                                <properties.file>${propertiesFile}</properties.file>
                             </systemPropertyVariables>
                             <suiteXmlFiles>
                                 <suiteXmlFile>src/main/resources/${suiteXmlFile}</suiteXmlFile>

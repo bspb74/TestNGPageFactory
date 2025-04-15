@@ -51,7 +51,9 @@ public class TestBase {
     }
 
     private String getPropertyFileString() {
-        String[] dirs = new String[] {"src", "main", "java", "com", "testng", "qa", "config", "config.properties"};
+
+        String cfgPropertiesFile = System.getProperty("properties.file");
+        String[] dirs = new String[] {"src", "main", "java", "com", "testng", "qa", "config", cfgPropertiesFile};
         StringBuilder sb = new StringBuilder();
         sb.append(System.getProperty("user.dir"));
         sb.append(File.separator);

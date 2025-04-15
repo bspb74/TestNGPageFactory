@@ -3173,3 +3173,733 @@
 2025-04-14 14:42:46.504 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Bike Light
 2025-04-14 14:42:46.515 [main] INFO  SauceLabsTestCases - Item "Sauce Labs Bike Light" found in cart!
 2025-04-14 14:42:48.984 [main] INFO  TestListenerClass - Test Passed: testIndividualProductPageByName
+2025-04-14 16:30:34.437 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-14 16:30:34.453 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-14 16:30:34.454 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config.properties
+2025-04-14 16:30:35.386 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-14 16:30:35.387 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-14 16:30:45.033 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-14 16:30:45.076 [main] WARN  SauceDemo_TestCases - Setting Test Name: sauceLabsLogin_0
+2025-04-14 16:30:45.822 [main] INFO  TestListenerClass - Test Passed: sauceLabsLogin
+2025-04-14 16:30:45.840 [main] WARN  SauceDemo_TestCases - Setting Test Name: addItemsToCart_0
+2025-04-14 16:30:47.474 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414043047.png
+2025-04-14 16:30:47.475 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414043047.png
+2025-04-14 16:30:47.488 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414043047.png
+2025-04-14 16:30:50.288 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414043049.png
+2025-04-14 16:30:50.288 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414043049.png
+2025-04-14 16:30:50.294 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414043049.png
+2025-04-14 16:30:51.904 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414043051.png
+2025-04-14 16:30:51.905 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414043051.png
+2025-04-14 16:30:51.909 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414043051.png
+2025-04-14 16:30:55.133 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414043054.png
+2025-04-14 16:30:55.133 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414043054.png
+2025-04-14 16:30:55.138 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414043054.png
+2025-04-14 16:30:55.440 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\productsPageAfterAddition_20250414043055.png
+2025-04-14 16:30:55.441 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\productsPageAfterAddition_20250414043055.png
+2025-04-14 16:30:55.450 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\productsPageAfterAddition_20250414043055.png
+2025-04-14 16:30:55.512 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-14 16:31:00.966 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCart_20250414043100.png
+2025-04-14 16:31:00.967 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCart_20250414043100.png
+2025-04-14 16:31:00.975 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCart_20250414043100.png
+2025-04-14 16:31:01.008 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 16:31:01.036 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-14 16:31:01.073 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-14 16:31:01.100 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 16:31:01.136 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 16:31:01.161 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-14 16:31:01.183 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-14 16:31:01.206 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 16:31:01.435 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414043101.png
+2025-04-14 16:31:01.436 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414043101.png
+2025-04-14 16:31:01.442 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414043101.png
+2025-04-14 16:31:01.767 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414043101.png
+2025-04-14 16:31:01.768 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414043101.png
+2025-04-14 16:31:01.774 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414043101.png
+2025-04-14 16:31:01.977 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414043101.png
+2025-04-14 16:31:01.978 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414043101.png
+2025-04-14 16:31:01.981 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414043101.png
+2025-04-14 16:31:02.196 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414043101.png
+2025-04-14 16:31:02.196 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414043101.png
+2025-04-14 16:31:02.199 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414043101.png
+2025-04-14 16:31:04.237 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 16:31:04.263 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-14 16:31:04.297 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 16:31:04.622 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414043104.png
+2025-04-14 16:31:04.625 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414043104.png
+2025-04-14 16:31:04.631 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414043104.png
+2025-04-14 16:31:04.829 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414043104.png
+2025-04-14 16:31:04.829 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414043104.png
+2025-04-14 16:31:04.832 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414043104.png
+2025-04-14 16:31:05.139 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414043104.png
+2025-04-14 16:31:05.139 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414043104.png
+2025-04-14 16:31:05.143 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414043104.png
+2025-04-14 16:31:07.339 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCartAfterRemoval_20250414043107.png
+2025-04-14 16:31:07.340 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCartAfterRemoval_20250414043107.png
+2025-04-14 16:31:07.346 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCartAfterRemoval_20250414043107.png
+2025-04-14 16:31:08.354 [main] INFO  TestListenerClass - Test Passed: addItemsToCart
+2025-04-14 16:31:08.357 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 16:31:08.546 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414043108.png
+2025-04-14 16:31:08.547 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414043108.png
+2025-04-14 16:31:08.553 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414043108.png
+2025-04-14 16:31:08.587 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 16:31:08.615 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 16:31:08.658 [main] INFO  Retry - Retrying Test: validateCartItemCount with status FAILURE for the 1 time(s).
+2025-04-14 16:31:08.662 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 16:31:08.905 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414043108.png
+2025-04-14 16:31:08.906 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414043108.png
+2025-04-14 16:31:08.910 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414043108.png
+2025-04-14 16:31:08.943 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 16:31:08.971 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 16:31:08.972 [main] INFO  Retry - Retrying Test: validateCartItemCount with status FAILURE for the 2 time(s).
+2025-04-14 16:31:08.973 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 16:31:09.175 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414043108.png
+2025-04-14 16:31:09.175 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414043108.png
+2025-04-14 16:31:09.179 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414043108.png
+2025-04-14 16:31:09.217 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 16:31:09.243 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 16:31:09.243 [main] ERROR TestListenerClass - Failed: validateCartItemCount
+2025-04-14 16:31:09.424 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\validateCartItemCount_20250414043109.png
+2025-04-14 16:31:09.424 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\validateCartItemCount_20250414043109.png
+2025-04-14 16:31:09.435 [main] WARN  SauceDemo_TestCases - Setting Test Name: testIndividualProductPageByName_0
+2025-04-14 16:31:19.833 [main] INFO  Retry - Retrying Test: testIndividualProductPageByName with status FAILURE for the 1 time(s).
+2025-04-14 16:31:19.841 [main] WARN  SauceDemo_TestCases - Setting Test Name: testIndividualProductPageByName_0
+2025-04-14 16:31:20.398 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414043120.png
+2025-04-14 16:31:20.398 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414043120.png
+2025-04-14 16:31:20.406 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414043120.png
+2025-04-14 16:31:20.853 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414043120.png
+2025-04-14 16:31:20.853 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414043120.png
+2025-04-14 16:31:20.856 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414043120.png
+2025-04-14 16:31:22.196 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414043121.png
+2025-04-14 16:31:22.197 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414043121.png
+2025-04-14 16:31:22.202 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414043121.png
+2025-04-14 16:31:22.256 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 16:31:22.289 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-14 16:31:22.322 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Bike Light
+2025-04-14 16:31:22.341 [main] INFO  SauceLabsTestCases - Item "Sauce Labs Bike Light" found in cart!
+2025-04-14 16:31:24.787 [main] INFO  TestListenerClass - Test Passed: testIndividualProductPageByName
+2025-04-14 16:42:52.666 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\null
+2025-04-14 16:42:52.687 [main] ERROR TestBase - Properites not loaded: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\null (The system cannot find the file specified)
+2025-04-14 16:42:54.070 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-14 16:42:54.071 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\null
+2025-04-14 16:44:41.960 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\null
+2025-04-14 16:44:41.979 [main] ERROR TestBase - Properites not loaded: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\null (The system cannot find the file specified)
+2025-04-14 16:44:43.145 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-14 16:44:43.146 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\null
+2025-04-14 16:48:25.025 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-firefox.properties
+2025-04-14 16:48:25.043 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-firefox.properties
+2025-04-14 16:48:25.044 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-firefox.properties
+2025-04-14 16:48:25.839 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-14 16:48:25.840 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-14 16:48:40.962 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-14 16:48:41.023 [main] WARN  SauceDemo_TestCases - Setting Test Name: sauceLabsLogin_0
+2025-04-14 16:48:42.212 [main] INFO  TestListenerClass - Test Passed: sauceLabsLogin
+2025-04-14 16:48:42.227 [main] WARN  SauceDemo_TestCases - Setting Test Name: addItemsToCart_0
+2025-04-14 16:48:44.228 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414044843.png
+2025-04-14 16:48:44.229 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414044843.png
+2025-04-14 16:48:44.244 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414044843.png
+2025-04-14 16:48:46.944 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414044846.png
+2025-04-14 16:48:46.945 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414044846.png
+2025-04-14 16:48:46.950 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414044846.png
+2025-04-14 16:48:48.431 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414044848.png
+2025-04-14 16:48:48.432 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414044848.png
+2025-04-14 16:48:48.436 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414044848.png
+2025-04-14 16:48:51.174 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414044850.png
+2025-04-14 16:48:51.177 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414044850.png
+2025-04-14 16:48:51.202 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414044850.png
+2025-04-14 16:48:51.332 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\productsPageAfterAddition_20250414044851.png
+2025-04-14 16:48:51.332 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\productsPageAfterAddition_20250414044851.png
+2025-04-14 16:48:51.336 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\productsPageAfterAddition_20250414044851.png
+2025-04-14 16:48:51.353 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-14 16:48:56.726 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCart_20250414044856.png
+2025-04-14 16:48:56.727 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCart_20250414044856.png
+2025-04-14 16:48:56.731 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCart_20250414044856.png
+2025-04-14 16:48:56.755 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 16:48:56.785 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-14 16:48:56.812 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-14 16:48:56.835 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 16:48:56.860 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 16:48:56.880 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-14 16:48:56.909 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-14 16:48:56.931 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 16:48:57.018 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414044856.png
+2025-04-14 16:48:57.019 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414044856.png
+2025-04-14 16:48:57.023 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414044856.png
+2025-04-14 16:48:57.314 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414044857.png
+2025-04-14 16:48:57.314 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414044857.png
+2025-04-14 16:48:57.319 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414044857.png
+2025-04-14 16:48:57.390 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414044857.png
+2025-04-14 16:48:57.390 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414044857.png
+2025-04-14 16:48:57.394 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414044857.png
+2025-04-14 16:48:57.463 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414044857.png
+2025-04-14 16:48:57.463 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414044857.png
+2025-04-14 16:48:57.471 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414044857.png
+2025-04-14 16:48:59.524 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 16:48:59.556 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-14 16:48:59.576 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 16:48:59.658 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414044859.png
+2025-04-14 16:48:59.658 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414044859.png
+2025-04-14 16:48:59.661 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414044859.png
+2025-04-14 16:48:59.737 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414044859.png
+2025-04-14 16:48:59.737 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414044859.png
+2025-04-14 16:48:59.741 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414044859.png
+2025-04-14 16:49:00.048 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414044859.png
+2025-04-14 16:49:00.049 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414044859.png
+2025-04-14 16:49:00.052 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414044859.png
+2025-04-14 16:49:02.143 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCartAfterRemoval_20250414044902.png
+2025-04-14 16:49:02.144 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCartAfterRemoval_20250414044902.png
+2025-04-14 16:49:02.148 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCartAfterRemoval_20250414044902.png
+2025-04-14 16:49:03.167 [main] INFO  TestListenerClass - Test Passed: addItemsToCart
+2025-04-14 16:49:03.184 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 16:49:03.305 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414044903.png
+2025-04-14 16:49:03.305 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414044903.png
+2025-04-14 16:49:03.313 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414044903.png
+2025-04-14 16:49:03.344 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 16:49:03.369 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 16:49:03.415 [main] INFO  Retry - Retrying Test: validateCartItemCount with status FAILURE for the 1 time(s).
+2025-04-14 16:49:03.421 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 16:49:03.530 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414044903.png
+2025-04-14 16:49:03.530 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414044903.png
+2025-04-14 16:49:03.534 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414044903.png
+2025-04-14 16:49:03.585 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 16:49:03.634 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 16:49:03.635 [main] INFO  Retry - Retrying Test: validateCartItemCount with status FAILURE for the 2 time(s).
+2025-04-14 16:49:03.639 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 16:49:03.750 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414044903.png
+2025-04-14 16:49:03.751 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414044903.png
+2025-04-14 16:49:03.755 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414044903.png
+2025-04-14 16:49:03.791 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 16:49:03.823 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 16:49:03.825 [main] ERROR TestListenerClass - Failed: validateCartItemCount
+2025-04-14 16:49:03.951 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\validateCartItemCount_20250414044903.png
+2025-04-14 16:49:03.951 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\validateCartItemCount_20250414044903.png
+2025-04-14 16:49:03.982 [main] WARN  SauceDemo_TestCases - Setting Test Name: testIndividualProductPageByName_0
+2025-04-14 16:49:04.598 [main] INFO  Retry - Retrying Test: testIndividualProductPageByName with status FAILURE for the 1 time(s).
+2025-04-14 16:49:04.604 [main] WARN  SauceDemo_TestCases - Setting Test Name: testIndividualProductPageByName_0
+2025-04-14 16:49:04.718 [main] INFO  Retry - Retrying Test: testIndividualProductPageByName with status FAILURE for the 2 time(s).
+2025-04-14 16:49:04.720 [main] WARN  SauceDemo_TestCases - Setting Test Name: testIndividualProductPageByName_0
+2025-04-14 16:49:04.834 [main] ERROR TestListenerClass - Failed: testIndividualProductPageByName
+2025-04-14 16:49:04.975 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\testIndividualProductPageByName_20250414044904.png
+2025-04-14 16:49:04.975 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\testIndividualProductPageByName_20250414044904.png
+2025-04-14 16:50:36.231 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-chrome.properties
+2025-04-14 16:50:36.246 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-chrome.properties
+2025-04-14 16:50:36.247 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-chrome.properties
+2025-04-14 16:50:37.059 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-14 16:50:37.060 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-14 16:50:43.405 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-14 16:50:43.442 [main] WARN  SauceDemo_TestCases - Setting Test Name: sauceLabsLogin_0
+2025-04-14 16:50:44.101 [main] INFO  TestListenerClass - Test Passed: sauceLabsLogin
+2025-04-14 16:50:44.111 [main] WARN  SauceDemo_TestCases - Setting Test Name: addItemsToCart_0
+2025-04-14 16:50:45.699 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414045045.png
+2025-04-14 16:50:45.700 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414045045.png
+2025-04-14 16:50:45.707 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414045045.png
+2025-04-14 16:50:48.340 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414045048.png
+2025-04-14 16:50:48.342 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414045048.png
+2025-04-14 16:50:48.347 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414045048.png
+2025-04-14 16:50:49.863 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414045049.png
+2025-04-14 16:50:49.864 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414045049.png
+2025-04-14 16:50:49.867 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414045049.png
+2025-04-14 16:50:52.742 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414045052.png
+2025-04-14 16:50:52.743 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414045052.png
+2025-04-14 16:50:52.748 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414045052.png
+2025-04-14 16:50:53.025 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\productsPageAfterAddition_20250414045052.png
+2025-04-14 16:50:53.025 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\productsPageAfterAddition_20250414045052.png
+2025-04-14 16:50:53.030 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\productsPageAfterAddition_20250414045052.png
+2025-04-14 16:50:53.063 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-14 16:50:58.479 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCart_20250414045058.png
+2025-04-14 16:50:58.479 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCart_20250414045058.png
+2025-04-14 16:50:58.486 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCart_20250414045058.png
+2025-04-14 16:50:58.520 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 16:50:58.546 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-14 16:50:58.572 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-14 16:50:58.603 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 16:50:58.636 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 16:50:58.659 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-14 16:50:58.680 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-14 16:50:58.710 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 16:50:58.894 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414045058.png
+2025-04-14 16:50:58.895 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414045058.png
+2025-04-14 16:50:58.902 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414045058.png
+2025-04-14 16:50:59.175 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414045059.png
+2025-04-14 16:50:59.175 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414045059.png
+2025-04-14 16:50:59.178 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414045059.png
+2025-04-14 16:50:59.353 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414045059.png
+2025-04-14 16:50:59.354 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414045059.png
+2025-04-14 16:50:59.358 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414045059.png
+2025-04-14 16:50:59.527 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414045059.png
+2025-04-14 16:50:59.527 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414045059.png
+2025-04-14 16:50:59.531 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414045059.png
+2025-04-14 16:51:01.574 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 16:51:01.602 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-14 16:51:01.672 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 16:51:01.853 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414045101.png
+2025-04-14 16:51:01.853 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414045101.png
+2025-04-14 16:51:01.856 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414045101.png
+2025-04-14 16:51:02.047 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414045101.png
+2025-04-14 16:51:02.048 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414045101.png
+2025-04-14 16:51:02.051 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414045101.png
+2025-04-14 16:51:02.337 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414045102.png
+2025-04-14 16:51:02.338 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414045102.png
+2025-04-14 16:51:02.341 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414045102.png
+2025-04-14 16:51:04.582 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCartAfterRemoval_20250414045104.png
+2025-04-14 16:51:04.582 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCartAfterRemoval_20250414045104.png
+2025-04-14 16:51:04.587 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCartAfterRemoval_20250414045104.png
+2025-04-14 16:51:05.589 [main] INFO  TestListenerClass - Test Passed: addItemsToCart
+2025-04-14 16:51:05.598 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 16:51:05.798 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414045105.png
+2025-04-14 16:51:05.798 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414045105.png
+2025-04-14 16:51:05.803 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414045105.png
+2025-04-14 16:51:05.838 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 16:51:05.868 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 16:51:05.895 [main] INFO  Retry - Retrying Test: validateCartItemCount with status FAILURE for the 1 time(s).
+2025-04-14 16:51:05.900 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 16:51:06.127 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414045105.png
+2025-04-14 16:51:06.128 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414045105.png
+2025-04-14 16:51:06.134 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414045105.png
+2025-04-14 16:51:06.171 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 16:51:06.191 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 16:51:06.192 [main] INFO  Retry - Retrying Test: validateCartItemCount with status FAILURE for the 2 time(s).
+2025-04-14 16:51:06.194 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 16:51:06.367 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414045106.png
+2025-04-14 16:51:06.367 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414045106.png
+2025-04-14 16:51:06.370 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414045106.png
+2025-04-14 16:51:06.406 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 16:51:06.429 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 16:51:06.430 [main] ERROR TestListenerClass - Failed: validateCartItemCount
+2025-04-14 16:51:06.608 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\validateCartItemCount_20250414045106.png
+2025-04-14 16:51:06.608 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\validateCartItemCount_20250414045106.png
+2025-04-14 16:51:06.619 [main] WARN  SauceDemo_TestCases - Setting Test Name: testIndividualProductPageByName_0
+2025-04-14 16:51:17.089 [main] INFO  Retry - Retrying Test: testIndividualProductPageByName with status FAILURE for the 1 time(s).
+2025-04-14 16:51:17.100 [main] WARN  SauceDemo_TestCases - Setting Test Name: testIndividualProductPageByName_0
+2025-04-14 16:51:17.627 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414045117.png
+2025-04-14 16:51:17.627 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414045117.png
+2025-04-14 16:51:17.634 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414045117.png
+2025-04-14 16:51:18.069 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414045117.png
+2025-04-14 16:51:18.069 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414045117.png
+2025-04-14 16:51:18.073 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414045117.png
+2025-04-14 16:51:19.421 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414045119.png
+2025-04-14 16:51:19.421 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414045119.png
+2025-04-14 16:51:19.425 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414045119.png
+2025-04-14 16:51:19.475 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 16:51:19.509 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-14 16:51:19.535 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Bike Light
+2025-04-14 16:51:19.550 [main] INFO  SauceLabsTestCases - Item "Sauce Labs Bike Light" found in cart!
+2025-04-14 16:51:22.019 [main] INFO  TestListenerClass - Test Passed: testIndividualProductPageByName
+2025-04-14 17:06:12.867 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-chrome-headless.properties
+2025-04-14 17:06:12.883 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-chrome-headless.properties
+2025-04-14 17:06:12.884 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-chrome-headless.properties
+2025-04-14 17:06:13.761 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-14 17:06:13.762 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-14 17:06:20.458 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-14 17:06:20.558 [main] WARN  SauceDemo_TestCases - Setting Test Name: sauceLabsLogin_0
+2025-04-14 17:06:21.649 [main] INFO  TestListenerClass - Test Passed: sauceLabsLogin
+2025-04-14 17:06:21.657 [main] WARN  SauceDemo_TestCases - Setting Test Name: addItemsToCart_0
+2025-04-14 17:06:23.429 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414050623.png
+2025-04-14 17:06:23.429 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414050623.png
+2025-04-14 17:06:23.438 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414050623.png
+2025-04-14 17:06:26.233 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414050625.png
+2025-04-14 17:06:26.234 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414050625.png
+2025-04-14 17:06:26.237 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414050625.png
+2025-04-14 17:06:27.848 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414050627.png
+2025-04-14 17:06:27.850 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414050627.png
+2025-04-14 17:06:27.856 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414050627.png
+2025-04-14 17:06:31.429 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414050631.png
+2025-04-14 17:06:31.429 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414050631.png
+2025-04-14 17:06:31.443 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414050631.png
+2025-04-14 17:06:31.715 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\productsPageAfterAddition_20250414050631.png
+2025-04-14 17:06:31.715 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\productsPageAfterAddition_20250414050631.png
+2025-04-14 17:06:31.721 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\productsPageAfterAddition_20250414050631.png
+2025-04-14 17:06:31.758 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-14 17:06:37.161 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCart_20250414050636.png
+2025-04-14 17:06:37.161 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCart_20250414050636.png
+2025-04-14 17:06:37.168 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCart_20250414050636.png
+2025-04-14 17:06:37.207 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 17:06:37.241 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-14 17:06:37.275 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-14 17:06:37.306 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 17:06:37.351 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 17:06:37.378 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-14 17:06:37.407 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-14 17:06:37.432 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 17:06:37.649 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050637.png
+2025-04-14 17:06:37.649 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050637.png
+2025-04-14 17:06:37.652 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050637.png
+2025-04-14 17:06:38.005 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050637.png
+2025-04-14 17:06:38.006 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050637.png
+2025-04-14 17:06:38.010 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050637.png
+2025-04-14 17:06:38.215 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050638.png
+2025-04-14 17:06:38.215 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050638.png
+2025-04-14 17:06:38.219 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050638.png
+2025-04-14 17:06:38.412 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050638.png
+2025-04-14 17:06:38.413 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050638.png
+2025-04-14 17:06:38.417 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050638.png
+2025-04-14 17:06:40.481 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 17:06:40.515 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-14 17:06:40.539 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 17:06:40.724 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050640.png
+2025-04-14 17:06:40.725 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050640.png
+2025-04-14 17:06:40.732 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050640.png
+2025-04-14 17:06:40.923 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050640.png
+2025-04-14 17:06:40.924 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050640.png
+2025-04-14 17:06:40.929 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050640.png
+2025-04-14 17:06:41.223 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050641.png
+2025-04-14 17:06:41.224 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050641.png
+2025-04-14 17:06:41.230 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050641.png
+2025-04-14 17:06:43.415 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCartAfterRemoval_20250414050643.png
+2025-04-14 17:06:43.415 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCartAfterRemoval_20250414050643.png
+2025-04-14 17:06:43.419 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCartAfterRemoval_20250414050643.png
+2025-04-14 17:06:44.431 [main] INFO  TestListenerClass - Test Passed: addItemsToCart
+2025-04-14 17:06:44.436 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 17:06:44.621 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050644.png
+2025-04-14 17:06:44.622 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050644.png
+2025-04-14 17:06:44.626 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050644.png
+2025-04-14 17:06:44.660 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 17:06:44.694 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 17:06:44.729 [main] INFO  Retry - Retrying Test: validateCartItemCount with status FAILURE for the 1 time(s).
+2025-04-14 17:06:44.735 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 17:06:44.943 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050644.png
+2025-04-14 17:06:44.944 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050644.png
+2025-04-14 17:06:44.947 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050644.png
+2025-04-14 17:06:44.981 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 17:06:45.013 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 17:06:45.013 [main] INFO  Retry - Retrying Test: validateCartItemCount with status FAILURE for the 2 time(s).
+2025-04-14 17:06:45.016 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 17:06:45.230 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050645.png
+2025-04-14 17:06:45.230 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050645.png
+2025-04-14 17:06:45.234 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050645.png
+2025-04-14 17:06:45.276 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 17:06:45.303 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 17:06:45.305 [main] ERROR TestListenerClass - Failed: validateCartItemCount
+2025-04-14 17:06:45.495 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\validateCartItemCount_20250414050645.png
+2025-04-14 17:06:45.495 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\validateCartItemCount_20250414050645.png
+2025-04-14 17:06:45.511 [main] WARN  SauceDemo_TestCases - Setting Test Name: testIndividualProductPageByName_0
+2025-04-14 17:06:55.900 [main] INFO  Retry - Retrying Test: testIndividualProductPageByName with status FAILURE for the 1 time(s).
+2025-04-14 17:06:55.908 [main] WARN  SauceDemo_TestCases - Setting Test Name: testIndividualProductPageByName_0
+2025-04-14 17:06:56.520 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414050656.png
+2025-04-14 17:06:56.520 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414050656.png
+2025-04-14 17:06:56.525 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414050656.png
+2025-04-14 17:06:56.984 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414050656.png
+2025-04-14 17:06:56.984 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414050656.png
+2025-04-14 17:06:56.988 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414050656.png
+2025-04-14 17:06:58.290 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414050658.png
+2025-04-14 17:06:58.290 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414050658.png
+2025-04-14 17:06:58.295 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414050658.png
+2025-04-14 17:06:58.327 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 17:06:58.353 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-14 17:06:58.375 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Bike Light
+2025-04-14 17:06:58.386 [main] INFO  SauceLabsTestCases - Item "Sauce Labs Bike Light" found in cart!
+2025-04-14 17:07:00.858 [main] INFO  TestListenerClass - Test Passed: testIndividualProductPageByName
+2025-04-14 17:08:49.638 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-chrome-headless.properties
+2025-04-14 17:08:49.649 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-chrome-headless.properties
+2025-04-14 17:08:49.650 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-chrome-headless.properties
+2025-04-14 17:08:50.418 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-14 17:08:50.419 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-14 17:08:50.434 [main] WARN  ChromeDriverManager - Headless from Properties: false
+2025-04-14 17:08:55.747 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-14 17:08:55.798 [main] WARN  SauceDemo_TestCases - Setting Test Name: sauceLabsLogin_0
+2025-04-14 17:08:56.439 [main] INFO  TestListenerClass - Test Passed: sauceLabsLogin
+2025-04-14 17:08:56.452 [main] WARN  SauceDemo_TestCases - Setting Test Name: addItemsToCart_0
+2025-04-14 17:08:57.998 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414050857.png
+2025-04-14 17:08:57.998 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414050857.png
+2025-04-14 17:08:58.006 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414050857.png
+2025-04-14 17:09:00.709 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414050900.png
+2025-04-14 17:09:00.709 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414050900.png
+2025-04-14 17:09:00.712 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414050900.png
+2025-04-14 17:09:02.215 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414050901.png
+2025-04-14 17:09:02.216 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414050901.png
+2025-04-14 17:09:02.219 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414050901.png
+2025-04-14 17:09:04.975 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414050904.png
+2025-04-14 17:09:04.975 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414050904.png
+2025-04-14 17:09:04.991 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414050904.png
+2025-04-14 17:09:05.348 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\productsPageAfterAddition_20250414050904.png
+2025-04-14 17:09:05.349 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\productsPageAfterAddition_20250414050904.png
+2025-04-14 17:09:05.355 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\productsPageAfterAddition_20250414050904.png
+2025-04-14 17:09:05.419 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-14 17:09:10.788 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCart_20250414050910.png
+2025-04-14 17:09:10.789 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCart_20250414050910.png
+2025-04-14 17:09:10.792 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCart_20250414050910.png
+2025-04-14 17:09:10.833 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 17:09:10.860 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-14 17:09:10.892 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-14 17:09:10.917 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 17:09:10.950 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 17:09:10.970 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-14 17:09:11.000 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-14 17:09:11.027 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 17:09:11.240 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050911.png
+2025-04-14 17:09:11.241 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050911.png
+2025-04-14 17:09:11.244 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050911.png
+2025-04-14 17:09:11.516 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050911.png
+2025-04-14 17:09:11.517 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050911.png
+2025-04-14 17:09:11.520 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050911.png
+2025-04-14 17:09:11.688 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050911.png
+2025-04-14 17:09:11.688 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050911.png
+2025-04-14 17:09:11.691 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050911.png
+2025-04-14 17:09:11.869 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050911.png
+2025-04-14 17:09:11.869 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050911.png
+2025-04-14 17:09:11.873 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414050911.png
+2025-04-14 17:09:13.917 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 17:09:13.940 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-14 17:09:13.965 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 17:09:14.155 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050913.png
+2025-04-14 17:09:14.155 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050913.png
+2025-04-14 17:09:14.159 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050913.png
+2025-04-14 17:09:14.487 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050914.png
+2025-04-14 17:09:14.487 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050914.png
+2025-04-14 17:09:14.496 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050914.png
+2025-04-14 17:09:14.774 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050914.png
+2025-04-14 17:09:14.775 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050914.png
+2025-04-14 17:09:14.778 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414050914.png
+2025-04-14 17:09:16.972 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCartAfterRemoval_20250414050916.png
+2025-04-14 17:09:16.973 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCartAfterRemoval_20250414050916.png
+2025-04-14 17:09:16.976 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCartAfterRemoval_20250414050916.png
+2025-04-14 17:09:17.979 [main] INFO  TestListenerClass - Test Passed: addItemsToCart
+2025-04-14 17:09:17.987 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 17:09:18.175 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050917.png
+2025-04-14 17:09:18.176 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050917.png
+2025-04-14 17:09:18.179 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050917.png
+2025-04-14 17:09:18.213 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 17:09:18.245 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 17:09:18.296 [main] INFO  Retry - Retrying Test: validateCartItemCount with status FAILURE for the 1 time(s).
+2025-04-14 17:09:18.304 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 17:09:18.551 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050918.png
+2025-04-14 17:09:18.552 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050918.png
+2025-04-14 17:09:18.556 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050918.png
+2025-04-14 17:09:18.590 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 17:09:18.610 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 17:09:18.611 [main] INFO  Retry - Retrying Test: validateCartItemCount with status FAILURE for the 2 time(s).
+2025-04-14 17:09:18.613 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 17:09:18.813 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050918.png
+2025-04-14 17:09:18.813 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050918.png
+2025-04-14 17:09:18.816 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414050918.png
+2025-04-14 17:09:18.850 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 17:09:18.877 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 17:09:18.877 [main] ERROR TestListenerClass - Failed: validateCartItemCount
+2025-04-14 17:09:19.046 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\validateCartItemCount_20250414050918.png
+2025-04-14 17:09:19.046 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\validateCartItemCount_20250414050918.png
+2025-04-14 17:09:19.059 [main] WARN  SauceDemo_TestCases - Setting Test Name: testIndividualProductPageByName_0
+2025-04-14 17:09:29.464 [main] INFO  Retry - Retrying Test: testIndividualProductPageByName with status FAILURE for the 1 time(s).
+2025-04-14 17:09:29.470 [main] WARN  SauceDemo_TestCases - Setting Test Name: testIndividualProductPageByName_0
+2025-04-14 17:09:30.113 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414050929.png
+2025-04-14 17:09:30.113 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414050929.png
+2025-04-14 17:09:30.118 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414050929.png
+2025-04-14 17:09:30.667 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414050930.png
+2025-04-14 17:09:30.668 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414050930.png
+2025-04-14 17:09:30.673 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414050930.png
+2025-04-14 17:09:31.968 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414050931.png
+2025-04-14 17:09:31.968 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414050931.png
+2025-04-14 17:09:31.972 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414050931.png
+2025-04-14 17:09:31.999 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 17:09:32.020 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-14 17:09:32.039 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Bike Light
+2025-04-14 17:09:32.050 [main] INFO  SauceLabsTestCases - Item "Sauce Labs Bike Light" found in cart!
+2025-04-14 17:09:34.421 [main] INFO  TestListenerClass - Test Passed: testIndividualProductPageByName
+2025-04-14 17:10:04.006 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-chrome-headless.properties
+2025-04-14 17:10:04.018 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-chrome-headless.properties
+2025-04-14 17:10:04.019 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-chrome-headless.properties
+2025-04-14 17:10:04.755 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-14 17:10:04.756 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-14 17:10:04.795 [main] WARN  ChromeDriverManager - Headless from Properties: false
+2025-04-14 17:10:10.116 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-14 17:10:10.156 [main] WARN  SauceDemo_TestCases - Setting Test Name: sauceLabsLogin_0
+2025-04-14 17:10:10.703 [main] INFO  TestListenerClass - Test Passed: sauceLabsLogin
+2025-04-14 17:10:10.714 [main] WARN  SauceDemo_TestCases - Setting Test Name: addItemsToCart_0
+2025-04-14 17:10:12.281 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414051011.png
+2025-04-14 17:10:12.281 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414051011.png
+2025-04-14 17:10:12.292 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414051011.png
+2025-04-14 17:10:15.003 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414051014.png
+2025-04-14 17:10:15.004 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414051014.png
+2025-04-14 17:10:15.009 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414051014.png
+2025-04-14 17:10:16.606 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414051016.png
+2025-04-14 17:10:16.607 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414051016.png
+2025-04-14 17:10:16.611 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414051016.png
+2025-04-14 17:10:19.416 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414051019.png
+2025-04-14 17:10:19.416 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414051019.png
+2025-04-14 17:10:19.420 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414051019.png
+2025-04-14 17:10:19.638 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\productsPageAfterAddition_20250414051019.png
+2025-04-14 17:10:19.638 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\productsPageAfterAddition_20250414051019.png
+2025-04-14 17:10:19.641 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\productsPageAfterAddition_20250414051019.png
+2025-04-14 17:10:19.670 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-14 17:10:25.084 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCart_20250414051024.png
+2025-04-14 17:10:25.084 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCart_20250414051024.png
+2025-04-14 17:10:25.087 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCart_20250414051024.png
+2025-04-14 17:10:25.116 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 17:10:25.138 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-14 17:10:25.159 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-14 17:10:25.181 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 17:10:25.211 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 17:10:25.236 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-14 17:10:25.259 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-14 17:10:25.279 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 17:10:25.464 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051025.png
+2025-04-14 17:10:25.464 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051025.png
+2025-04-14 17:10:25.467 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051025.png
+2025-04-14 17:10:25.735 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051025.png
+2025-04-14 17:10:25.735 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051025.png
+2025-04-14 17:10:25.739 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051025.png
+2025-04-14 17:10:25.915 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051025.png
+2025-04-14 17:10:25.915 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051025.png
+2025-04-14 17:10:25.918 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051025.png
+2025-04-14 17:10:26.095 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051025.png
+2025-04-14 17:10:26.095 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051025.png
+2025-04-14 17:10:26.101 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051025.png
+2025-04-14 17:10:28.158 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 17:10:28.196 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-14 17:10:28.229 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 17:10:28.404 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051028.png
+2025-04-14 17:10:28.405 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051028.png
+2025-04-14 17:10:28.408 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051028.png
+2025-04-14 17:10:28.576 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051028.png
+2025-04-14 17:10:28.577 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051028.png
+2025-04-14 17:10:28.579 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051028.png
+2025-04-14 17:10:28.856 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051028.png
+2025-04-14 17:10:28.856 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051028.png
+2025-04-14 17:10:28.859 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051028.png
+2025-04-14 17:10:31.048 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCartAfterRemoval_20250414051030.png
+2025-04-14 17:10:31.048 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCartAfterRemoval_20250414051030.png
+2025-04-14 17:10:31.051 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCartAfterRemoval_20250414051030.png
+2025-04-14 17:10:32.056 [main] INFO  TestListenerClass - Test Passed: addItemsToCart
+2025-04-14 17:10:32.067 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 17:10:32.279 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051032.png
+2025-04-14 17:10:32.279 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051032.png
+2025-04-14 17:10:32.283 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051032.png
+2025-04-14 17:10:32.316 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 17:10:32.342 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 17:10:32.371 [main] INFO  Retry - Retrying Test: validateCartItemCount with status FAILURE for the 1 time(s).
+2025-04-14 17:10:32.378 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 17:10:32.592 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051032.png
+2025-04-14 17:10:32.592 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051032.png
+2025-04-14 17:10:32.596 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051032.png
+2025-04-14 17:10:32.628 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 17:10:32.649 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 17:10:32.650 [main] INFO  Retry - Retrying Test: validateCartItemCount with status FAILURE for the 2 time(s).
+2025-04-14 17:10:32.653 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 17:10:32.821 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051032.png
+2025-04-14 17:10:32.821 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051032.png
+2025-04-14 17:10:32.823 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051032.png
+2025-04-14 17:10:32.855 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 17:10:32.877 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 17:10:32.878 [main] ERROR TestListenerClass - Failed: validateCartItemCount
+2025-04-14 17:10:33.054 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\validateCartItemCount_20250414051032.png
+2025-04-14 17:10:33.054 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\validateCartItemCount_20250414051032.png
+2025-04-14 17:10:33.066 [main] WARN  SauceDemo_TestCases - Setting Test Name: testIndividualProductPageByName_0
+2025-04-14 17:10:43.413 [main] INFO  Retry - Retrying Test: testIndividualProductPageByName with status FAILURE for the 1 time(s).
+2025-04-14 17:10:43.421 [main] WARN  SauceDemo_TestCases - Setting Test Name: testIndividualProductPageByName_0
+2025-04-14 17:10:43.880 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414051043.png
+2025-04-14 17:10:43.880 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414051043.png
+2025-04-14 17:10:43.884 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414051043.png
+2025-04-14 17:10:44.277 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414051044.png
+2025-04-14 17:10:44.278 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414051044.png
+2025-04-14 17:10:44.282 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414051044.png
+2025-04-14 17:10:45.628 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414051045.png
+2025-04-14 17:10:45.629 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414051045.png
+2025-04-14 17:10:45.633 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414051045.png
+2025-04-14 17:10:45.661 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 17:10:45.690 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-14 17:10:45.713 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Bike Light
+2025-04-14 17:10:45.725 [main] INFO  SauceLabsTestCases - Item "Sauce Labs Bike Light" found in cart!
+2025-04-14 17:10:48.089 [main] INFO  TestListenerClass - Test Passed: testIndividualProductPageByName
+2025-04-14 17:13:25.535 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-chrome-headless.properties
+2025-04-14 17:13:25.550 [main] INFO  TestBase - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-chrome-headless.properties
+2025-04-14 17:13:25.551 [main] WARN  TestBase - Loading Properites: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\config\config-chrome-headless.properties
+2025-04-14 17:13:26.279 [main] WARN  SauceDemo_TestCases - C:\Users\Carey\IdeaProjects\TestNGPageFactory
+2025-04-14 17:13:26.281 [main] INFO  SauceDemo_TestCases - File: C:\Users\Carey\IdeaProjects\TestNGPageFactory\src\main\java\com\testng\qa\data\addresses.xlsx
+2025-04-14 17:13:26.299 [main] WARN  ChromeDriverManager - Headless from Properties: true
+2025-04-14 17:13:31.871 [main] INFO  TestBase - URL: http://saucedemo.com
+2025-04-14 17:13:31.910 [main] WARN  SauceDemo_TestCases - Setting Test Name: sauceLabsLogin_0
+2025-04-14 17:13:32.430 [main] INFO  TestListenerClass - Test Passed: sauceLabsLogin
+2025-04-14 17:13:32.438 [main] WARN  SauceDemo_TestCases - Setting Test Name: addItemsToCart_0
+2025-04-14 17:13:34.119 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414051333.png
+2025-04-14 17:13:34.120 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414051333.png
+2025-04-14 17:13:34.128 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Backpack_20250414051333.png
+2025-04-14 17:13:36.901 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414051336.png
+2025-04-14 17:13:36.902 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414051336.png
+2025-04-14 17:13:36.905 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Bolt T-Shirt_20250414051336.png
+2025-04-14 17:13:38.539 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414051338.png
+2025-04-14 17:13:38.540 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414051338.png
+2025-04-14 17:13:38.544 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Sauce Labs Fleece Jacket_20250414051338.png
+2025-04-14 17:13:41.385 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414051341.png
+2025-04-14 17:13:41.385 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414051341.png
+2025-04-14 17:13:41.392 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addItem_Test.allTheThings() T-Shirt (Red)_20250414051341.png
+2025-04-14 17:13:41.854 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\productsPageAfterAddition_20250414051341.png
+2025-04-14 17:13:41.854 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\productsPageAfterAddition_20250414051341.png
+2025-04-14 17:13:41.859 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\productsPageAfterAddition_20250414051341.png
+2025-04-14 17:13:41.905 [main] INFO  SauceLabsTestCases - Cart Count: 4
+2025-04-14 17:13:47.465 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCart_20250414051347.png
+2025-04-14 17:13:47.465 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCart_20250414051347.png
+2025-04-14 17:13:47.468 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCart_20250414051347.png
+2025-04-14 17:13:47.495 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 17:13:47.516 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-14 17:13:47.537 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-14 17:13:47.562 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 17:13:47.593 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 17:13:47.612 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Bolt T-Shirt
+2025-04-14 17:13:47.632 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Fleece Jacket
+2025-04-14 17:13:47.650 [main] INFO  YourCart - Shopping Cart Item #3 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 17:13:47.946 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051347.png
+2025-04-14 17:13:47.946 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051347.png
+2025-04-14 17:13:47.949 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051347.png
+2025-04-14 17:13:48.325 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051348.png
+2025-04-14 17:13:48.326 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051348.png
+2025-04-14 17:13:48.329 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051348.png
+2025-04-14 17:13:48.620 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051348.png
+2025-04-14 17:13:48.621 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051348.png
+2025-04-14 17:13:48.624 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051348.png
+2025-04-14 17:13:48.911 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051348.png
+2025-04-14 17:13:48.912 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051348.png
+2025-04-14 17:13:48.915 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Sauce Labs Bolt T-Shirt_20250414051348.png
+2025-04-14 17:13:50.954 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 17:13:50.976 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-14 17:13:50.997 [main] INFO  YourCart - Shopping Cart Item #2 => Test.allTheThings() T-Shirt (Red)
+2025-04-14 17:13:51.291 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051351.png
+2025-04-14 17:13:51.291 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051351.png
+2025-04-14 17:13:51.294 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051351.png
+2025-04-14 17:13:51.579 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051351.png
+2025-04-14 17:13:51.580 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051351.png
+2025-04-14 17:13:51.583 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051351.png
+2025-04-14 17:13:51.962 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051351.png
+2025-04-14 17:13:51.963 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051351.png
+2025-04-14 17:13:51.965 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\removing_item_Test.allTheThings() T-Shirt (Red)_20250414051351.png
+2025-04-14 17:13:54.295 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCartAfterRemoval_20250414051353.png
+2025-04-14 17:13:54.296 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCartAfterRemoval_20250414051353.png
+2025-04-14 17:13:54.299 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCartAfterRemoval_20250414051353.png
+2025-04-14 17:13:55.308 [main] INFO  TestListenerClass - Test Passed: addItemsToCart
+2025-04-14 17:13:55.320 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 17:13:55.639 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051355.png
+2025-04-14 17:13:55.639 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051355.png
+2025-04-14 17:13:55.643 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051355.png
+2025-04-14 17:13:55.678 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 17:13:55.705 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 17:13:55.731 [main] INFO  Retry - Retrying Test: validateCartItemCount with status FAILURE for the 1 time(s).
+2025-04-14 17:13:55.738 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 17:13:56.040 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051355.png
+2025-04-14 17:13:56.040 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051355.png
+2025-04-14 17:13:56.043 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051355.png
+2025-04-14 17:13:56.074 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 17:13:56.095 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 17:13:56.096 [main] INFO  Retry - Retrying Test: validateCartItemCount with status FAILURE for the 2 time(s).
+2025-04-14 17:13:56.098 [main] WARN  SauceDemo_TestCases - Setting Test Name: validateCartItemCount_0
+2025-04-14 17:13:56.380 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051356.png
+2025-04-14 17:13:56.380 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051356.png
+2025-04-14 17:13:56.383 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\gettingShoppingCartCount_Sauce-Labs-Fleece-Jacket_20250414051356.png
+2025-04-14 17:13:56.414 [main] INFO  YourCart - Item Idx: 1 for => Sauce Labs Fleece Jacket
+2025-04-14 17:13:56.435 [main] INFO  YourCart - Item Qty: 1
+2025-04-14 17:13:56.436 [main] ERROR TestListenerClass - Failed: validateCartItemCount
+2025-04-14 17:13:56.716 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\validateCartItemCount_20250414051356.png
+2025-04-14 17:13:56.717 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\validateCartItemCount_20250414051356.png
+2025-04-14 17:13:56.727 [main] WARN  SauceDemo_TestCases - Setting Test Name: testIndividualProductPageByName_0
+2025-04-14 17:14:07.082 [main] INFO  Retry - Retrying Test: testIndividualProductPageByName with status FAILURE for the 1 time(s).
+2025-04-14 17:14:07.094 [main] WARN  SauceDemo_TestCases - Setting Test Name: testIndividualProductPageByName_0
+2025-04-14 17:14:07.694 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414051407.png
+2025-04-14 17:14:07.694 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414051407.png
+2025-04-14 17:14:07.698 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\itemPageSauce Labs Bike Light_20250414051407.png
+2025-04-14 17:14:08.194 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414051407.png
+2025-04-14 17:14:08.194 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414051407.png
+2025-04-14 17:14:08.198 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\addOrRemoveItem_Sauce Labs Bike Light_20250414051407.png
+2025-04-14 17:14:09.622 [main] INFO  ScreenShot - Screenshot Path: C:\Users\Carey\IdeaProjects\TestNGPageFactory\test-output\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414051409.png
+2025-04-14 17:14:09.623 [main] INFO  ScreenShot - Extent Report SS Path: ..\..\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414051409.png
+2025-04-14 17:14:09.630 [main] INFO  TestListenerClass - Adding screenshot: ..\..\ScreenShot\20250414\shoppingCartForItem_Sauce Labs Bike Light_20250414051409.png
+2025-04-14 17:14:09.652 [main] INFO  YourCart - Shopping Cart Item #0 => Sauce Labs Backpack
+2025-04-14 17:14:09.675 [main] INFO  YourCart - Shopping Cart Item #1 => Sauce Labs Fleece Jacket
+2025-04-14 17:14:09.696 [main] INFO  YourCart - Shopping Cart Item #2 => Sauce Labs Bike Light
+2025-04-14 17:14:09.708 [main] INFO  SauceLabsTestCases - Item "Sauce Labs Bike Light" found in cart!
+2025-04-14 17:14:12.136 [main] INFO  TestListenerClass - Test Passed: testIndividualProductPageByName
