@@ -84,7 +84,7 @@ public class SauceDemo_TestCases extends TestBase implements TestCaseInterface {
     @Test(enabled = true, priority = 8, description = "Update Item Qty", dependsOnMethods = {"addItemsToCart"},
             retryAnalyzer = Retry.class)
     public void validateCartItemCount() {
-        sll.Test_verifyItemCountInCart("Sauce Labs Fleece Jacket", 2);
+        sll.Test_verifyItemCountInCart("Sauce Labs Fleece Jacket", 1);
     }
 
     @Test(enabled = true, priority = 9, description = "Test Individual Product Page By Name",

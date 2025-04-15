@@ -75,7 +75,7 @@ public class SauceLabsTestCases implements SauceLabsPages {
         int cartCount = PRODUCTS_PAGE.getCartCount();
         log.info("Cart Count: " + cartCount);
         Assert.assertEquals(addedIdx.get(), cartCount);
-        BASE_PAGE.waitTimer(5);
+        BASE_PAGE.waitTimer(1);
         PRODUCTS_PAGE.clickShoppingCartBtn();
         TestListenerClass.testStepScreenshot("shoppingCart");
         YOUR_CART.listShoppingCartItems();
