@@ -38,8 +38,4 @@ public class ScreenShot extends TestBase {
         return extentReportsSSPathFname;
     }
 
-    public static String getCurrentTime() {
-        String currentDate = new SimpleDateFormat("yyyy-MM-dd-hhmmss").format(new Date());
-        return currentDate;
-    }
 }

@@ -19,8 +19,8 @@ public class ExtentManager {
             "main" + File.separator + "resources" + File.separator + "extent-config.xml";
 
     public static void setExtent() {
-        htmlReporter= new ExtentSparkReporter(DateUtils.makeDirByDate(extentBasePath) + File.separator + "ER_" +
-                ScreenShot.getCurrentTime() + ".html");
+        htmlReporter= new ExtentSparkReporter(DateUtils.makeDirByDate(extentBasePath) + File.separator + "ER_SauceLabs_" +
+                DateUtils.getCurrentDate() + ".html");
         try {
             htmlReporter.loadXMLConfig(extentReportCfg);
         } catch (IOException e) {

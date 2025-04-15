@@ -16,4 +16,13 @@ public class DateUtils {
         return datePath;
     }
 
+    public static String getCurrentTime() {
+        String currentDate = new SimpleDateFormat("yyyy-MM-dd-hhmmss").format(new Date());
+        return currentDate;
+    }
+
+    public static String getCurrentDate() {
+        return new SimpleDateFormat("yyyyMMdd").format(new Date());
+    }
+
 }
